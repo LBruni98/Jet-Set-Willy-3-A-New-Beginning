@@ -1,5 +1,7 @@
 # Jet Set Willy 3: A New Beginning
 
+![Logo](https://github.com/LBruni98/Jet-Set-Willy-3-The-Unofficial-Sequel-/blob/master/Jet%20Set%20Willy%203%20Logo.png)
+
 ## Table of Contents
 1. Overview
 2. Development
