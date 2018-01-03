@@ -16,13 +16,26 @@ Jet Set Willy 3: A New Beginning is the third unofficial sequel and homage to th
 #### Player
 The player takes control of the main character, Miner Willy. A semi-retired miner and playboy, owner of a large mansion filled with bizzare things and generally where he spends all his life in. To prevent his mansion from being repossessed, he has to find enough money to pay off the taxman's huge debt.
 
-Willy can now fight, throw punches and knock enemies out. Sure blood may be spilled along the way, but the combat won't be a staple in the mechanics (there won't be any weapons as well), being that the game focuses in the platforming, where fighting will be as a last resort or saved as part of a certain mission. His platforming ability has improved immensely; he can grab ledges, run, duck and roll, which should add some tense action to his adventures.
+Willy can now fight, throw punches and knock enemies out. Sure blood may be spilled along the way, but the combat won't be a staple in the mechanics (there won't be any weapons as well), being that the game focuses in the platforming, where fighting will be as a last resort or saved as part of a certain mission.
+His platforming ability has improved immensely; he can grab ledges, run, duck and roll, which should add some tense action to his adventures.
 
 #### Enemies
-The enemies in Jet Set Willy 3 are far random, dependant on the room that willy could go in or some that just come up from time to time. The main enemies that Willy will encounter:
+The enemies in Jet Set Willy 3 are far random, dependant on the room that willy could go in or some that just come up from time to time. The main enemies that Willy will encounter alongside these enemies and static hazards:
+
 * Repo Men
 * Party Goers
 * The Taxman himself!
+* And many more!
+
+#### Interface
+
+
+#### Gameplay
+The game begins with Willy waking up at around 7:00AM, hungover and smelling of expensive vodka. He gets a knock at the door and he goes to answer it to reveal the taxman with his goons. A devilish grin on his face as he says to him that his payments are overdue, shocking poor Willy with the thought of having everything taken from him. The door is slammed on his face leading willy to quickly gather his money from the mansion.
+
+The gameplay will match the original nonlinear style of the game where the player can explore all of his mansion at will and take different approaches to getting to the goal. To help with the exploration, the game is not divided into "rooms" (A.K.A the game's not flip-screen".
+
+The game takes the same approach to collecting items, but rather than the item negating from a counter the amount of money found inside that item or the value of that item will add to the money counter.
 
 ## Development
 
