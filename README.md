@@ -33,9 +33,9 @@ The enemies in Jet Set Willy 3 are far random, dependant on the room that willy 
 #### Gameplay
 The game begins with Willy waking up at around 7:00AM, hungover and smelling of expensive vodka. He gets a knock at the door and he goes to answer it to reveal the taxman with his goons. A devilish grin on his face as he says to him that his payments are overdue, shocking poor Willy with the thought of having everything taken from him. The door is slammed on his face leading willy to quickly gather his money from the mansion.
 
-The gameplay will match the original nonlinear style of the game where the player can explore all of his mansion at will and take different approaches to getting to the goal. To help with the exploration, the game is not divided into "rooms" (A.K.A the game's not flip-screen".
+The gameplay will match the original nonlinear style of the game where the player can explore all of his mansion at will and take different approaches to getting to the goal. To help with the exploration, the game is not divided into "rooms" (A.K.A the game's not flip-screen").
 
-The game takes the same approach to collecting items, but rather than the item negating from a counter the amount of money found inside that item or the value of that item will add to the money counter.
+The game takes the same approach to collecting items, but rather than the item negating from a counter the amount of money found inside that item or the value of that item will add to the money counter. The money takes on many forms, like stated before, money can be picked up inside objects in the house or found in different places. Money is more the aim here and Willy must collect enough money to fullfil a quota. This qouta will change and the game will change along with it, altering some of the levels. Quotas will keep being fulfiled to progress the game's story until the end.
 
 ## Development
 
