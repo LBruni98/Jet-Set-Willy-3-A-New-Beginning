@@ -28,7 +28,9 @@ The enemies in Jet Set Willy 3 are far random, dependant on the room that willy 
 * And many more!
 
 #### Interface
+As the game is mainly derived from its prequels, the interface should be simple enough for the user and not be needlessly complicated at all. Menus are simple, being there will be some options to configure and something for the extra features; a basic main menu system with some extra aesthetics that match the design of the game.
 
+Regarding the UI for the initial game, it will function similarly to that of the original games. i.e, the location names and objectives (items collected in the old games, money in this sequel). The HUD will be updated and designed to allow for the game to be centre stage and not take up a portion of the screen.
 
 #### Gameplay
 The game begins with Willy waking up at around 7:00AM, hungover and smelling of expensive vodka. He gets a knock at the door and he goes to answer it to reveal the taxman with his goons. A devilish grin on his face as he says to him that his payments are overdue, shocking poor Willy with the thought of having everything taken from him. The door is slammed on his face leading willy to quickly gather his money from the mansion.
