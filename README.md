@@ -39,6 +39,19 @@ The gameplay will match the original nonlinear style of the game where the playe
 
 The game takes the same approach to collecting items, but rather than the item negating from a counter the amount of money found inside that item or the value of that item will add to the money counter. The money takes on many forms, like stated before, money can be picked up inside objects in the house or found in different places. Money is more the aim here and Willy must collect enough money to fullfil a quota. This qouta will change and the game will change along with it, altering some of the levels. Quotas will keep being fulfiled to progress the game's story until the end.
 
+##### Controls
+| Action     | Key binding      |
+| ---------- | ---------------- |
+| Move Left  | 'A'/Left Key     |
+| Move Right | 'D'/Right Key    |
+| Jump       | 'W'/SPACE/Up Key |
+| Duck       | CTRL/Down Key    |
+| Roll       | SHIFT            |
+| Punch      | Left Mouse       |
+| Block      | Right Mouse      |
+| Interact   | 'E'              |
+| Pause      | ESC              |
+
 ## Development
 
 #### Development Timetable
