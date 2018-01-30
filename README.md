@@ -216,17 +216,6 @@ Players can also chat in game to each other which comes up in a box but also a s
 ##### Internet
 The servers will be Listen servers, which give benefits of what dedicated servers have but should allow for quicker games. However, because of the type of game this is for multiplayer, other investigations will commence.
 
-
-
-### 2.1.	Coding Standards
-### 2.2.	IDE used for the project
-### 2.3.	Concept art/assets
-### 2.4.	Scope 
-### 2.5.	Algorithm of code
-### 2.6.	Backlogs
-### 2.7.	Game objective
-### 2.8.	Storyboard/brainstorming
-
 ## 3. Evaluation
 ### 3.1.	Testing Report
 ### 3.2.	Evaluation 
