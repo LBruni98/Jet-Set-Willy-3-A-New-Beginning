@@ -31,10 +31,23 @@ The game is labelled to be a sequel and will have a newer style to keep the game
 
 Jet Set Willy 3 will have a newer platforming system, more towards a modern audience with fluid control and good responsiveness, rather than the old system, which made the game difficult in some places and often impossible to clear. This should bode well with the newer mechanics of the game such as the constant scrolling and the faster gameplay.
 
-Combat will be included to provide some action to the game. 
+Combat will be included to provide some action to the game. The player can punch, perform some combos and probably do some finishing moves, though this won't be the main aspect of the game, as the features must not spoil too much of the original formula. Enemies will be tough and the player can be easily overwhelmed.
 
 #### 1.3.2 Resources
+The required resources are as followed:
+
+##### 1.3.2.1 Unity
+The game will be developed in unity, reasons being that I have past experience of using the engine and that it has features that can help me with developing the game.
+
+##### 1.3.2.2 Firebase
+Firebase will be used for the games multiplayer aspect
+
+##### 1.3.2.3 Internet Access
+##### 1.3.2.4 Appropriate Computer
+
 #### 1.3.3 Cost
+
+
 ### 1.4	Project Schedule
 *GANTT CHART IN DEVELOPMENT*
 
@@ -42,6 +55,7 @@ Combat will be included to provide some action to the game.
 ### 1.6	Feasibility Report
 ### 1.7	Development Aims
 #### 1.7.1 Movement
+|
 #### 1.7.2 Combat
 #### 1.7.3 Collision
 #### 1.7.4 Items
@@ -208,20 +222,23 @@ Regarding the UI for the initial game, it will function similarly to that of the
 ### 2.7 Control
 
 #### 2.7.1 Methods
+The players can have two methods of control, by that of using keyboard or using a controller for the PC using the default button maps. An Xbox controller will be used for testing and will be the basis for other plug in controllers and other platforms.
+
+Both users will have the opportunity to change the button maps of to their own playstyle, should the default layout not be suitable for them.
 
 #### 2.7.2 Direct Control
 
-|Action     |Key binding      |
-|-----------|-----------------|
-|Move Left	|'A'/Left Key     |
-|Move Right	|'D'/Right Key    |
-|Jump	      |'W'/SPACE/Up Key |
-|Duck	      |CTRL/Down Key    |
-|Roll	      |SHIFT            |
-|Punch	    |Left Mouse       |
-|Block	    |Right Mouse      |
-|Interact	  |'E'              |
-|Pause	    |ESC              |
+|Action     |Key binding (Default PC)    |Controller (Default Xbox One) |
+|-----------|----------------------------|------------------------------|
+|Move Left	 |'A'                         |Left Analogue Stick/DPad Left |
+|Move Right	|'D'                         |Left Analogue Stick/DPad Right|
+|Jump	      |'W'                         |A Button                      |
+|Duck	      |'S'                         |B Button                      |
+|Roll	      |SHIFT                       |Y Button                      |
+|Punch	     |Left Mouse                  |Right Trigger                 |
+|Block	     |Right Mouse                 |Left Trigger                  |
+|Interact	  |'E'                         |X Button                      |
+|Pause	     |ESC                         |Start Button                  |
 
 ### 2.8 Single-Player Game
 #### 2.8.1 Story
