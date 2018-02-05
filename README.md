@@ -12,17 +12,54 @@ Written by Luke Bruni
 3. Evaluation
 
 ## 1. Project Management
-### 1.1 Requirements of overall project
-### 1.2	Research
-### 1.3	Project Schedule/time management
-### 1.4 Risk Assessment 
-### 1.5	Feasibility Report
-### 1.6	User stories
-### 1.7	Resources/ Software, Hardware
+### 1.1 Revisions
+
+|Version|Name        |Date       |Notes           |
+|-------|------------|-----------|----------------|
+|1.00   | Luke Bruni |05/02/2018 |Initial Document|
+
+### 1.2 General Aims
+#### 1.2.1 Main Objective
+The main objective of this project is to create a rebooted version/sequel of the game 'Jet Set Willy'. The aim is to create this game with more features and a revitalised gameplay style.
+
+#### 1.2.2 Secondary Objectives
+One aim during this project is to gain more experience of the Unity engine and to get to know other tools that would be beneficial to the project, such as firebase, a database software that will be used for the multiplayer aspect.
+
+### 1.3 Requirements
+#### 1.3.1 Scope
+The game is labelled to be a sequel and will have a newer style to keep the game looking refreshed and not the same visually. As part of the newer features, the feel of Jet Set Willy must remain and shouldn't deviate too far from the original game.
+
+Jet Set Willy 3 will have a newer platforming system, more towards a modern audience with fluid control and good responsiveness, rather than the old system, which made the game difficult in some places and often impossible to clear. This should bode well with the newer mechanics of the game such as the constant scrolling and the faster gameplay.
+
+Combat will be included to provide some action to the game. 
+
+#### 1.3.2 Resources
+#### 1.3.3 Cost
+### 1.4	Project Schedule
+*GANTT CHART IN DEVELOPMENT*
+
+### 1.5 Risk Assessment 
+### 1.6	Feasibility Report
+### 1.7	Development Aims
+#### 1.7.1 Movement
+#### 1.7.2 Combat
+#### 1.7.3 Collision
+#### 1.7.4 Items
+#### 1.7.5 Enemies
+
 ### 1.8	Testing Plan
-### 1.9	Steps from writing code to execution (Plan)
-### 1.10	Use of debugging software
-### 1.11	Contingency plans
+### 1.9	Contingency plans
+### 1.10 Backlog
+#### 1.10.1 Week 1
+#### 1.10.2 Week 2
+
+### 1.11 Reducing Vulnerabilities During Development
+Vulnerabilities of a system or program come up each time during development of a program 
+
+#### 1.11.1 Plan
+The plan to understand the vulnerabilities in a system would be to see how they function effect the success of a system in both the long and short run.
+
+##### 1.11.2 References
 
 ## 2. Design Document
 ### 2.1 Revisions
