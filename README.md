@@ -55,11 +55,59 @@ Firebase will be used for the games multiplayer aspect
 ### 1.6	Feasibility Report
 ### 1.7	Development Aims
 #### 1.7.1 Movement
-|
+| User Story | Task Description                             | Points | Due Date |
+| ---------- |--------------------------------------------- | ------ | -------- |
+|         |                            |      |     |
+|         |                      |      |     |
+|         |                           |      |     |
+|         |                         |       |     |
+|         |                             |      |     |
+|          |  |      |    |
+| |                      |      |    |
+
 #### 1.7.2 Combat
+| User Story | Task Description                             | Points | Due Date |
+| ---------- |--------------------------------------------- | ------ | -------- |
+|         |                            |      |     |
+|         |                      |      |     |
+|         |                           |      |     |
+|         |                         |       |     |
+|         |                             |      |     |
+|          |  |      |    |
+| |                      |      |    |
+
 #### 1.7.3 Collision
+| User Story | Task Description                             | Points | Due Date |
+| ---------- |--------------------------------------------- | ------ | -------- |
+|         |                            |      |     |
+|         |                      |      |     |
+|         |                           |      |     |
+|         |                         |       |     |
+|         |                             |      |     |
+|          |  |      |    |
+| |                      |      |    |
+
 #### 1.7.4 Items
+| User Story | Task Description                             | Points | Due Date |
+| ---------- |--------------------------------------------- | ------ | -------- |
+|         |                            |      |     |
+|         |                      |      |     |
+|         |                           |      |     |
+|         |                         |       |     |
+|         |                             |      |     |
+|          |  |      |    |
+| |                      |      |    |
+
 #### 1.7.5 Enemies
+| User Story | Task Description                             | Points | Due Date |
+| ---------- |--------------------------------------------- | ------ | -------- |
+|         |                            |      |     |
+|         |                      |      |     |
+|         |                           |      |     |
+|         |                         |       |     |
+|         |                             |      |     |
+|          |  |      |    |
+| |                      |      |    |
 
 ### 1.8	Testing Plan
 ### 1.9	Contingency plans
