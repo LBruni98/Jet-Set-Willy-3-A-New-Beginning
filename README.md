@@ -49,7 +49,7 @@ Firebase will be used for the games multiplayer aspect
 
 
 ### 1.4	Project Schedule
-*GANTT CHART IN DEVELOPMENT*
+![Gantt Chart](https://github.com/LBruni98/Jet-Set-Willy-3-The-Unofficial-Sequel-/blob/master/Gantt%20Chart.PNG)
 
 ### 1.5 Risk Assessment 
 ### 1.6	Feasibility Report
