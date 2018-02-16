@@ -66,57 +66,41 @@ The overall cost of this project will add up to £1,599.
 #### 1.7.1 Movement
 | User Story | Task Description                             | Points |
 | ---------- |--------------------------------------------- | ------ |
-| 1          | Moving left and right                        |    1   |   
-| 2          | Character Movement Speed                     |   2    |    
-| 3          |                           |      |    
-|         |                         |       |    
-|         |                             |      |    
-|          |  |      |   
-| |                      |      |   
+| 1          | Moving left and right                        |   1    |
+| 2          | Character Movement Speed                     |   1    |
+| 3          | Jumping                                      |   1    |
+| 4          | Ducking                                      |   1    |
+| 5          | Key bindings                                 |   2    |
 
 #### 1.7.2 Combat
-| User Story | Task Description                             | Points | Due Date |
-| ---------- |--------------------------------------------- | ------ | -------- |
-|         |                            |      |     |
-|         |                      |      |     |
-|         |                           |      |     |
-|         |                         |       |     |
-|         |                             |      |     |
-|          |  |      |    |
-| |                      |      |    |
+| User Story | Task Description                             | Points |
+| ---------- |--------------------------------------------- | ------ |
+| 1          | Punching                                     |   2    |
+| 2          | Blocking                                     |   2    |
+| 3          | Finishers                                    |   3    |
+| 4          | Combo counter                                |   2    |
 
 #### 1.7.3 Collision
-| User Story | Task Description                             | Points | Due Date |
-| ---------- |--------------------------------------------- | ------ | -------- |
-|         |                            |      |     |
-|         |                      |      |     |
-|         |                           |      |     |
-|         |                         |       |     |
-|         |                             |      |     |
-|          |  |      |    |
-| |                      |      |    |
+| User Story | Task Description                             | Points |
+| ---------- |--------------------------------------------- | ------ |
+| 1          | Character contact with ground                |   2    |
+| 2          | Hitboxes                                     |   2    |
+| 3          | Hazards                                      |   3    |
+| 4          | Health                                       |   1    |
 
 #### 1.7.4 Items
-| User Story | Task Description                             | Points | Due Date |
-| ---------- |--------------------------------------------- | ------ | -------- |
-|         |                            |      |     |
-|         |                      |      |     |
-|         |                           |      |     |
-|         |                         |       |     |
-|         |                             |      |     |
-|          |  |      |    |
-| |                      |      |    |
+| User Story | Task Description                             | Points |
+| ---------- |--------------------------------------------- | ------ |
+| 1          | Item functionality                           |   2    |
+| 2          | Money Counter and Quota                      |   3    |
+| 3          | Interaction                                  |   1    |
 
 #### 1.7.5 Enemies
-| User Story | Task Description                             | Points | Due Date |
-| ---------- |--------------------------------------------- | ------ | -------- |
-|         |                            |      |     |
-|         |                      |      |     |
-|         |                           |      |     |
-|         |                         |       |     |
-|         |                             |      |     |
-|          |  |      |    |
-| |                      |      |    |
+| User Story | Task Description                             | Points |
+| ---------- |--------------------------------------------- | ------ |
+| 1          | Pathing                                      |   2    |
+| 2          | Detecting the player                         |   5    |
+| 3          | Enemy Health                                 |   3    |
 
 ### 1.8	Testing Plan
 ### 1.9	Contingency plans
