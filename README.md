@@ -31,7 +31,7 @@ The game is labelled to be a sequel and will have a newer style to keep the game
 
 Jet Set Willy 3 will have a newer platforming system, more towards a modern audience with fluid control and good responsiveness, rather than the old system, which made the game difficult in some places and often impossible to clear. This should bode well with the newer mechanics of the game such as the constant scrolling and the faster gameplay.
 
-Combat will be included to provide some action to the game. The player can punch, perform some combos and probably do some finishing moves, though this won't be the main aspect of the game, as the features must not spoil too much of the original formula. Enemies will be tough and the player can be easily overwhelmed.
+Combat will be included to provide some action to the game. The player can punch, perform some combos and probably do some finishing moves, though this won't be the main aspect of the game, as the features must not spoil too much of the original formula. Enemies will be tough and the player can be easily overwhelmed, so avoidance is key.
 
 #### 1.3.2 Resources
 The required resources are as followed:
@@ -40,32 +40,39 @@ The required resources are as followed:
 The game will be developed in unity, reasons being that I have past experience of using the engine and that it has features that can help me with developing the game.
 
 ##### 1.3.2.2 Firebase
-Firebase will be used for the games multiplayer aspect
+Firebase will be used for the games multiplayer aspect, with features contained that are common with most game hosting servers. The players data will be stored on the firebase database and tools that allow for players to be a assigned a space in a game. Conveniently, Firebase can be used with Unity with it's own features for monitoring players and messaging. 
 
 ##### 1.3.2.3 Internet Access
+Internet access will absolutely necessary because research will be carried out in this project; secondary research by reading articles and webpages and primary research with web serveys and such. This will also be used to keep track of analytics of players in multiplayer games and to test the multiplayer portion of the game, as well as eventual publishing of the game.
+
 ##### 1.3.2.4 Appropriate Computer
+At least a decent computer must be used in order help with the development of the game. The computer must be matching the minimum requirements of the software that will be used during development and to make sure that it can run well without issues.
 
 #### 1.3.3 Cost
+The platform I am developing is for PC where it is free and requires no developing license whatsoever. Unity Pro which is the engine that will be used will come at £125 a month. Development of the project will take around three months so that will add up to £375. The version of Firebase that will be used is entirely free, containing the features that I need so there will be no upgrading.
 
+The PC for home development will be my own system priced at the time at £789. A secondary PC for home development will also be used for writing up documentation or for backup, which costs £300.
+
+The internet that will be used cost £45 a month which as mentioned earlier with the amount of time for development will cost £135 for three months.
+
+The overall cost of this project will add up to £1,599.
 
 ### 1.4	Project Schedule
 ![Gantt Chart](https://github.com/LBruni98/Jet-Set-Willy-3-The-Unofficial-Sequel-/blob/master/Gantt%20Chart.jpg)
-
-(IMPROVEMENTS TO BE MADE)
 
 ### 1.5 Risk Assessment 
 ### 1.6	Feasibility Report
 ### 1.7	Development Aims
 #### 1.7.1 Movement
-| User Story | Task Description                             | Points | Due Date |
-| ---------- |--------------------------------------------- | ------ | -------- |
-|         |                            |      |     |
-|         |                      |      |     |
-|         |                           |      |     |
-|         |                         |       |     |
-|         |                             |      |     |
-|          |  |      |    |
-| |                      |      |    |
+| User Story | Task Description                             | Points |
+| ---------- |--------------------------------------------- | ------ |
+| 1          | Moving left and right                        |    1   |   
+| 2          | Character Movement Speed                     |   2    |    
+| 3          |                           |      |    
+|         |                         |       |    
+|         |                             |      |    
+|          |  |      |   
+| |                      |      |   
 
 #### 1.7.2 Combat
 | User Story | Task Description                             | Points | Due Date |
