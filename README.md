@@ -18,6 +18,7 @@ Written by Luke Bruni
 |-------|------------|-----------|-------------------------------------------------------|
 |1.00   | Luke Bruni |05/02/2018 |Initial Document                                       |
 |1.10   | Luke Bruni |18/02/2018 |Heading and section changes along with more information|
+|1.11   | Luke Bruni |18/02/2018 |Information added to .DOC version                      |
 
 ### 1.2 General Aims
 #### 1.2.1 Main Objective
