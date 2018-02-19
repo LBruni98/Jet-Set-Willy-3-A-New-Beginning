@@ -176,13 +176,11 @@ This is a mechanism that allows for data exchange between processes [5]. The met
 
 ***1.2.1.5 Insecure File Operations***
 
+An attacker can change the permissions of a file after creation, if not checked properly. This is the result creating insecure temporary files and can result in tampered files that the owner wouldn’t notice.
+
 ***1.2.1.6 Access Control Problems***
 
-***1.2.1.7 Secure Storage and Encryption***
-
-***1.2.1.8 Social Engineering***
-
-
+Access control is the process of controlling who can do what. This can be access to certain files or resources in a computer and what they can and can’t do with those resources or files
 
 ##### 1.11.2 References
 1.	Software Development. [online]. Techopedia. Available from: <https://www.techopedia.com/definition/16431/software-development>. [Accessed 19 February 2018].
@@ -190,7 +188,9 @@ This is a mechanism that allows for data exchange between processes [5]. The met
 3.	SecureList [online]. (n.d). Available from: <https://securelist.com/threats/software-vulnerabilities/>. [Accessed 19 February 2018].
 4.	Apple Developer [online]. (2016). Available from: <https://developer.apple.com/library/content/documentation/Security/Conceptual/SecureCodingGuide/Articles/TypesSecVuln.html>. [Accessed 19 February 2018].
 5.	Inter Process Communication (IPC). [online]. Techopedia. Available from: <https://www.techopedia.com/definition/3818/inter-process-communication-ipc>. [Accessed 19 February 2018].
-
+6.	OWASP (2016). Insecure Temporary File [online]. Available from: <https://www.owasp.org/index.php/Insecure_Temporary_File>. [Accessed 19 February 2018].
+7.	Tom McKay (2017). Welp, Looks Like Imgur Has Also Been Hacked. [online]. Gizmodo. Available from: <https://gizmodo.com/welp-looks-like-imgur-has-also-been-hacked-1820739397>. [Accessed 19 February 2018].
+8.	Michael Kan (2017). Yahoo execs botched its response to 2014 breach, investigation finds. [online]. CSO. Available from: <https://www.csoonline.com/article/3176181/security/yahoo-execs-botched-its-response-to-2014-breach-investigation-finds.html>. [Accessed 19 February 2018].
 
 ## 2. Design Document
 ### 2.1 Revisions
