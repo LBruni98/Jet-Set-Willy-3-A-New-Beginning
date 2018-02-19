@@ -145,8 +145,52 @@ The method of creating software is commonly referred to as a Software Developmen
 ##### 1.11.1.2 Vulnerabilities
 Regarding computing security, vulnerabilities are weaknesses within software, being a flaw within code or design that creates an opening for an attacker to breach security and either run code or access a system’s memory. Because of the fact that these vulnerabilities are discovered, they are then exploited, allowing to be conducted through hacking scripts, applications or even free hand coding [2]. Once the attacker has breached access, they have the opportunity to gain access to information and can exploit the vulnerability to hide their actions [3].
 
+###### 1.2.1	Types of Vulnerabilities
+This section describes each vulnerability that could occur in software.
+
+***1.2.1.1	Buffer Overflow***
+
+A buffer overflow is where an application attempts to write data past the end of a buffer. This can cause the program to crash, compromise data and provide an attack vector to compromise the system.
+
+Applications that take input from the user, from a file or a network has to store that input. This storage is temporary, but there are two exceptions to where it can be stored, in either the stack or the heap. Buffer Overflow attacks occur by compromising either one storage or both.
+
+***1.2.1.2 Unvalidated Input***
+
+This is unwanted input that can occur by having the attacker interfere and pass in abnormal data. Once the program crashes, then the attacker looks for exploits in the system and subsequently take control of the system, steal data, corrupt disk, etc.
+
+Any form of input from an untrusted source is a more than likely target for an attack, such as:
+•	Text input fields
+•	Commands passed through a URL used to launch the program
+•	Files provided by users or other processes and read by the program
+•	Command line input
+•	Any data read from an untrusted server over a network
+•	Any untrusted data read from a trusted server over a network.
+
+***1.2.1.3 Race Conditions***
+
+Race conditions are made when changes in events cause a behavioural change, to which the attacker can take advantage of the situation to either insert their code, change the name of a file or just interfere with the program’s operation. However, this may not always be the case, as if the correct order of execution is required for the operation of the program, then the change is a bug.
+
+***1.2.1.4 Interprocess Communication***
+
+This is a mechanism that allows for data exchange between processes [5]. The methods involved include shared memory or a messaging protocol such as sockets. These messaging protocols are vulnerable as the end communication channel could be hostile, so programmers have to always assume that they are hostile.
+
+***1.2.1.5 Insecure File Operations***
+
+***1.2.1.6 Access Control Problems***
+
+***1.2.1.7 Secure Storage and Encryption***
+
+***1.2.1.8 Social Engineering***
+
+
+
 ##### 1.11.2 References
 1.	Software Development. [online]. Techopedia. Available from: <https://www.techopedia.com/definition/16431/software-development>. [Accessed 19 February 2018].
+2.	Margaret Rouse, Matthew Haughn (2014). vulnerability. [online]. WhatIs.com. Available from: <http://whatis.techtarget.com/definition/vulnerability>. [Accessed 19 February 2018].
+3.	SecureList [online]. (n.d). Available from: <https://securelist.com/threats/software-vulnerabilities/>. [Accessed 19 February 2018].
+4.	Apple Developer [online]. (2016). Available from: <https://developer.apple.com/library/content/documentation/Security/Conceptual/SecureCodingGuide/Articles/TypesSecVuln.html>. [Accessed 19 February 2018].
+5.	Inter Process Communication (IPC). [online]. Techopedia. Available from: <https://www.techopedia.com/definition/3818/inter-process-communication-ipc>. [Accessed 19 February 2018].
+
 
 ## 2. Design Document
 ### 2.1 Revisions
