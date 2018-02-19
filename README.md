@@ -136,12 +136,17 @@ The growth of more retro looking titles has grown exponentially and more or less
 #### 1.10.2 Week 2
 
 ### 1.11 Reducing Vulnerabilities During Development
-Vulnerabilities of a system or program come up each time during development of a program 
+#### 1.11.1 Introduction
+##### 1.11.1.1 Software Development
+Software development is the process of creating applications or software which is made using a specific programming language. This is an iterative process used to create these programs, to fulfil either a business or personal goal, process or objective. The process is usually made up of various steps within development to create the operational software in question. [1]
 
-#### 1.11.1 Plan
-The plan to understand the vulnerabilities in a system would be to see how they function effect the success of a system in both the long and short run.
+The method of creating software is commonly referred to as a Software Development Life Cycle (SDLC) and the process is normally carried out through the software programmer, with initial research, data and process flow design, flow charts, technical documentation, testing and debugging. The process is commonly iterative, but there are other methodologies to adopt depending on the nature of the program. 
+
+##### 1.11.1.2 Vulnerabilities
+Regarding computing security, vulnerabilities are weaknesses within software, being a flaw within code or design that creates an opening for an attacker to breach security and either run code or access a system’s memory. Because of the fact that these vulnerabilities are discovered, they are then exploited, allowing to be conducted through hacking scripts, applications or even free hand coding [2]. Once the attacker has breached access, they have the opportunity to gain access to information and can exploit the vulnerability to hide their actions [3].
 
 ##### 1.11.2 References
+1.	Software Development. [online]. Techopedia. Available from: <https://www.techopedia.com/definition/16431/software-development>. [Accessed 19 February 2018].
 
 ## 2. Design Document
 ### 2.1 Revisions
