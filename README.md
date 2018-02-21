@@ -7,6 +7,8 @@ All work Copyright ©2018 by Reboot Games
 Written by Luke Bruni
 
 ## Table of Contents
+
+```
 1. Project Management
   1.1 Revisions
   1.2 General Aims
@@ -95,6 +97,7 @@ Written by Luke Bruni
   3.2	Evaluation 
   3.3	Critical Analysis
   3.4	Future changes
+```
 
 ## 1. Project Management
 ### 1.1 Revisions
