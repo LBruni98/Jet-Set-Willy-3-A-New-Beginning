@@ -8,8 +8,93 @@ Written by Luke Bruni
 
 ## Table of Contents
 1. Project Management
+  1.1 Revisions
+  1.2 General Aims
+    1.2.1 Main Objective
+    1.2.2 Secondary Objectives
+  1.3 Requirements
+    1.3.1 Scope
+    1.3.2 Resources
+      1.3.2.1 Unity
+      1.3.2.2 Firebase
+      1.3.2.3 Internet Access
+      1.3.2.4 Appropriate Computer
+    1.3.3 Cost
+  1.4 Project Schedule
+  1.5 Risk Assessment
+    1.5.1 Scope Creep
+    1.5.2 Hardware/software issues
+    1.5.3 Cost Management
+  1.6 Contingency plans
+    1.6.1 Scope Creep
+    1.6.2 Hardware/software issues
+    1.6.3 Cost Management
+  1.7 Feasibility Report
+    1.7.1 Technical Feasibility
+    1.7.2 Market Feasibility
+  1.8 Development Aims
+    1.8.1 Movement
+    1.8.2 Combat
+    1.8.3 Collision
+    1.8.4 Items
+    1.8.5 Enemies
 2. Design Document
+  2.1 Revisions
+  2.2 Game Overview
+    2.2.1 Philosophy
+      2.2.1.1 Revival
+      2.2.1.2 PC and beyond…
+    2.2.2 Common Questions
+      2.2.2.1 What is the game?
+      2.2.2.2 Why create this game?
+      2.2.2.3 Where does the game take place?
+      2.2.2.4 What do I control?
+      2.2.2.5 How many characters do I control?
+      2.2.2.6 What is the main focus?
+      2.2.2.7 What’s different?
+  2.3 What’s in a Game
+    2.3.1 Gameplay Overview
+    2.3.2 Money
+    2.3.3 Punch Ups
+    2.3.4 Platforming
+  2.4 The Mansion
+    2.4.1 Overview
+    2.4.2 Non-linear
+    2.4.3 What’s in the mansion?
+      2.4.3.1 Overview
+      2.4.3.2 Key Locations
+      2.4.3.3 Scale
+    2.4.4 Game Engine
+      2.4.4.1 Overview
+      2.4.4.2 Sprite Management
+      2.4.4.3 Animation
+    2.5 Game Characters
+      2.5.1 Main/Playable Characters
+        2.5.1.1 Miner Willy
+        2.5.1.2 Andre the Chef
+        2.5.1.3 Maria
+        2.5.1.4 Brother Geoff
+        2.5.1.5 Brian
+      2.5.2 Enemies and Monsters
+        2.5.2.1 The Taxman
+    2.6 User Interface
+      2.6.1 Overview
+      2.6.2 HUD
+    2.7 Control
+      2.7.1 Methods
+      2.7.2 Direct Control
+    2.8 Single-Player Game
+      2.8.1 Story
+    2.9 Multiplayer Game
+      2.9.1 Overview
+        2.9.1.1 Max Players
+        2.9.1.2 Customization
+        2.9.1.3 Internet
 3. Evaluation
+  3.1	Testing Report
+  3.2	Evaluation 
+  3.3	Critical Analysis
+  3.4	Future changes
 
 ## 1. Project Management
 ### 1.1 Revisions
