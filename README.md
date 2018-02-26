@@ -478,12 +478,14 @@ Access control is the process of controlling who can do what. This can be access
  
 ### 3.2	Case Studies
 #### 3.2.1 Yahoo 2013-2014 Data Breach
-In 2013, Yahoo had said that all 3 billion of its accounts were hacked in a data theft that had occurred in a disclosure during the company being sold to Verizon. It had been the biggest breach in history, tripling its earlier estimate.
+Recently, Yahoo had said that all 3 billion of its accounts were hacked in a data theft that had occurred in a disclosure during the company being sold to Verizon. It had been the biggest breach in history, tripling its earlier estimate.
 
-An investigation was carried out saying that 1 billion accounts were compromised, but newer evidence emerged that all user accounts had been affected. However, the investigation had specified that the stolen information did not include passwords, payment card data or bank account information, but was protected with outdated encryption which was considered easy-to-crack and security questions along with backup email addresses, to which it was easy to break into the other accounts that were held by the users.
+An investigation was carried out in 2013 saying that 1 billion accounts were compromised, but went unnoticed. Yahoo did blame the breach on an “Unauthorized third party”, though most details weren’t provided until law enforcement had reported that the files were originally from yahoo but a third party had managed to obtain the files. The company had then verified that the stolen data was legitimate shortly after.
 
-This was a real blow to Yahoo as the offer for the Yahoo assets by Verizon was lowered by $350 million dollars in the wake of the 
- 
+The data that was affected was mainly user data; names, emails, phone numbers, dates of birth and hashed passwords were obtained, mainly because they were protected with outdated encryption which was considered easy-to-crack and security questions along with backup email addresses, to which it was easy to break into the other accounts that were held by the users. However, the investigation had specified that the stolen information did not include payment card data or bank account information.
+
+Another investigation was carried out, reporting another massive breach which affected 500 million in 2014 but botched its response. The security team at Yahoo had knew about what Yahoo report as a ‘state-sponsored hacker’ had stolen backup copies of backup files, containing personal details on users
+
 ### 3.3	Software Development Process
 
 
