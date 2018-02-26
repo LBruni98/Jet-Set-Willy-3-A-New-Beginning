@@ -92,11 +92,22 @@ Written by Luke Bruni
         2.9.1.1 Max Players
         2.9.1.2 Customization
         2.9.1.3 Internet
-3. Evaluation
-  3.1	Testing Report
-  3.2	Evaluation 
-  3.3	Critical Analysis
-  3.4	Future changes
+3. Security Report - Reducing Vulnerabilities During Development
+  3.1 Introduction
+    3.1.1 Software Development
+    3.1.2 Vulnerabilities
+      3.1.2.1 Types of Vulnerabilities
+  3.2	Case Studies
+    3.2.1 Yahoo 2013-2014 Data Breach
+  3.3	Software Development Process
+  3.4 Issues of the Process
+  3.5 Conclusion
+  3.6 References
+4. Evaluation
+  4.1	Testing Report
+  4.2	Evaluation 
+  4.3	Critical Analysis
+  4.4	Future changes
 ```
 
 ## 1. Project Management
