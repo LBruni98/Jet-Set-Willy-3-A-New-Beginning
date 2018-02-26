@@ -431,13 +431,13 @@ Regarding computing security, vulnerabilities are weaknesses within software, be
 ##### 3.1.2.1 Types of Vulnerabilities
 This section describes each vulnerability that could occur in software.
 
-###### 3.1.2.1.1 Buffer Overflow
+###### Buffer Overflow
 
 A buffer overflow is where an application attempts to write data past the end of a buffer. This can cause the program to crash, compromise data and provide an attack vector to compromise the system.
 
 Applications that take input from the user, from a file or a network has to store that input. This storage is temporary, but there are two exceptions to where it can be stored, in either the stack or the heap. Buffer Overflow attacks occur by compromising either one storage or both.
 
-###### 3.1.2.1.2 Unvalidated Input
+###### Unvalidated Input
 
 This is unwanted input that can occur by having the attacker interfere and pass in abnormal data. Once the program crashes, then the attacker looks for exploits in the system and subsequently take control of the system, steal data, corrupt disk, etc.
 
@@ -449,19 +449,19 @@ Any form of input from an untrusted source is a more than likely target for an a
 •	Any data read from an untrusted server over a network
 •	Any untrusted data read from a trusted server over a network.
 
-###### 3.1.2.1.3 Race Conditions
+###### Race Conditions
 
 Race conditions are made when changes in events cause a behavioural change, to which the attacker can take advantage of the situation to either insert their code, change the name of a file or just interfere with the program’s operation. However, this may not always be the case, as if the correct order of execution is required for the operation of the program, then the change is a bug.
 
-###### 3.1.2.1.4 Interprocess Communication
+###### Interprocess Communication
 
 This is a mechanism that allows for data exchange between processes [5]. The methods involved include shared memory or a messaging protocol such as sockets. These messaging protocols are vulnerable as the end communication channel could be hostile, so programmers have to always assume that they are hostile.
 
-###### 3.1.2.1.5 Insecure File Operations
+###### Insecure File Operations
 
 An attacker can change the permissions of a file after creation, if not checked properly. This is the result creating insecure temporary files and can result in tampered files that the owner wouldn’t notice.
 
-###### 3.1.2.1.6 Access Control Problems
+###### Access Control Problems
 
 Access control is the process of controlling who can do what. This can be access to certain files or resources in a computer and what they can and can’t do with those resources or files
  
