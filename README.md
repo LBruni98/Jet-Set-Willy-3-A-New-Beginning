@@ -162,26 +162,12 @@ The overall cost of this project will add up to £1,599.
 ![Gantt Chart](https://github.com/LBruni98/Jet-Set-Willy-3-The-Unofficial-Sequel-/blob/master/Gantt%20Chart.jpg)
 
 ### 1.5 Risk Assessment
-#### 1.5.1 Scope Creep
-Original objectives and ideas may gradually expand to the point where the project may take far longer or have a possibility of failure. Scope creep may happen because of poor understanding of the original project, changes within the market or even competing forces within a company.
 
-#### 1.5.2 Hardware/software issues
-Issues here maybe storage devices are missing, damaged or corrupt files, that hinder the project greatly because of important files becoming unavailable, having to start again from scratch. The PC or router would be damaged or flat out stop working, causing huge delays in the project until they are repaired or replaced.
-
-#### 1.5.3 Cost Management
-During the project, issues such as lack of software or, in an unlikely case, changing ISPs to help with the internet may interfere with the original budget and cashing out for features or software for the product, with the risk of the project going over budget and the project failing because of it.
-
-### 1.6	Contingency plans
-These plans are actions to the aforementioned risks above.
-
-#### 1.6.1 Scope Creep
-To prevent the risk of scope creep, ideas will be set and seen that they are followed with no major change. Any minor change is allowed, but with careful consideration, so factors like timelines are reworked slightly or more time is given to allow for this change. This in turn should help prevent any extreme scope creep.
-
-#### 1.6.2 Hardware/software issues
-Storage backups will be used in case of any failure to the storage devices mentioned in 1.5.1. There will also be backup storage of the backups in case of an extreme outcome of the risk. In regards to internet failure with the router being broken, again the backups will help should there be any cloud files that cannot be accessed and the research portion of the project will be carried out first as hopefully the development of the game doesn't require internet connection, even the multiplayer portion. As mentioned in 1.3.3, there are two computers, the software can be installed on both computers with the same license so should a computer break down, the other will be used in place so the project can continue.
-
-#### 1.6.3 Cost Management
-In case of the cost going too high, an extra amount is kept until anything comes up. This amount accounts for about half of the original budget. Also, the aims were considered carefully based on what I could use and the purhcases were already made.
+| No. | Risk | Probability | Severity | Risk Effect | Contingency |
+| --- | ---- | ----------- | -------- | ----------- | ----------- |
+| 1   | Scope Creep | 40% | Moderate | Original objectives and ideas may gradually expand to the point where the project may take far longer or have a possibility of failure. Scope creep may happen because of poor understanding of the original project, changes within the market or even competing forces within a company. | To prevent the risk of scope creep, ideas will be set and seen that they are followed with no major change. Any minor change is allowed, but with careful consideration, so factors like timelines are reworked slightly or more time is given to allow for this change. This in turn should help prevent any extreme scope creep. |
+| 2 | Hardware/software issues | 20% | Significant | Issues here maybe storage devices are missing, damaged or corrupt files, that hinder the project greatly because of important files becoming unavailable, having to start again from scratch. The PC or router would be damaged or flat out stop working, causing huge delays in the project until they are repaired or replaced. | Storage backups will be used in case of any failure to the storage devices mentioned in 1.5.1. There will also be backup storage of the backups in case of an extreme outcome of the risk. In regards to internet failure with the router being broken, again the backups will help should there be any cloud files that cannot be accessed and the research portion of the project will be carried out first as hopefully the development of the game doesn't require internet connection, even the multiplayer portion. As mentioned in 1.3.3, there are two computers, the software can be installed on both computers with the same license so should a computer break down, the other will be used in place so the project can continue. |
+| 3 | Cost Management | 35% | Catastrophic | During the project, issues such as lack of software or, in an unlikely case, changing ISPs to help with the internet may interfere with the original budget and cashing out for features or software for the product, with the risk of the project going over budget and the project failing because of it. | In case of the cost going too high, an extra amount is kept until anything comes up. This amount accounts for about half of the original budget. Also, the aims were considered carefully based on what I could use and the purhcases were already made. |
 
 ### 1.7	Feasibility Report
 #### 1.7.1 Technical Feasibility
