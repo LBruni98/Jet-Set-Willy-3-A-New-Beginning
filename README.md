@@ -169,15 +169,21 @@ The overall cost of this project will add up to £1,599.
 | 2 | Hardware/software issues | 20% | Significant | Issues here maybe storage devices are missing, damaged or corrupt files, that hinder the project greatly because of important files becoming unavailable, having to start again from scratch. The PC or router would be damaged or flat out stop working, causing huge delays in the project until they are repaired or replaced. | Storage backups will be used in case of any failure to the storage devices mentioned in 1.5.1. There will also be backup storage of the backups in case of an extreme outcome of the risk. In regards to internet failure with the router being broken, again the backups will help should there be any cloud files that cannot be accessed and the research portion of the project will be carried out first as hopefully the development of the game doesn't require internet connection, even the multiplayer portion. As mentioned in 1.3.3, there are two computers, the software can be installed on both computers with the same license so should a computer break down, the other will be used in place so the project can continue. |
 | 3 | Cost Management | 35% | Catastrophic | During the project, issues such as lack of software or, in an unlikely case, changing ISPs to help with the internet may interfere with the original budget and cashing out for features or software for the product, with the risk of the project going over budget and the project failing because of it. | In case of the cost going too high, an extra amount is kept until anything comes up. This amount accounts for about half of the original budget. Also, the aims were considered carefully based on what I could use and the purhcases were already made. |
 
-### 1.7	Feasibility Report
-#### 1.7.1 Technical Feasibility
+### 1.6 Quality
+At Reboot Games, it is compulsory to ensure that the project is up to its highest standard, meets the requirements stated and performs without flaws. Tests during the development of the code, 
+
+### 1.7 Communication
+Being this is an individual project, communication won't be planned or arranged as if it were a fully-fledged group project. However, this won't be considered a major drawback, as I am allowed to communicate with other people who are working on their individual projects, mainly for the reason of supporting, help, tips for my own project or feedback. We can communicate within three days of the week when we're all available during the development and communication can stretch to social media, such as facebook or messenger, as well as phone calls. Communication will reach to all members at any time and not just going to the same person consecutively, but spacing out to others if I request them.
+
+### 1.8	Feasibility Report
+#### 1.8.1 Technical Feasibility
 The deliverables are to address the development properly and to show the game's progress. The project timetable being set and deliverables will be delivered at the end of each development iteration, such as documentation, design, testing, etc. so development won't be too built up and left until the last minute. The project will use the Unity engine for development because of the features that it contains that would prove beneficial to the development of the game and other seperate features that are compaitible with Unity, such as firebase, database software from google that will aid in the multiplayer aspect of the game, this alluding to the ease of using Unity.
 
-#### 1.7.2 Market Feasibility
+#### 1.8.2 Market Feasibility
 The growth of more retro looking titles has grown exponentially and more or less the need of these types of games have been growing. These sorts of games follow more faster paced but older looking games, stuff that would've looked possible at the time but would be of modern gameplay and performance. Being that this game is a sequel, it will look more retro but not exactly like the older games and be more faster paced than the games before it because of the performance of modern machines. This in turn should put a foot in the door to the retro genre of games as said genre does perform very well and being a sequel of older games, it should draw more of an attention towards older fans of the game.
 
-### 1.8	Development Aims
-#### 1.8.1 Movement
+### 1.9	Development Aims
+#### 1.9.1 Movement
 | User Story | Task Description                             | Points |
 | ---------- |--------------------------------------------- | ------ |
 | 1          | Moving left and right                        |   1    |
@@ -186,7 +192,7 @@ The growth of more retro looking titles has grown exponentially and more or less
 | 4          | Ducking                                      |   1    |
 | 5          | Key bindings                                 |   2    |
 
-#### 1.8.2 Combat
+#### 1.9.2 Combat
 | User Story | Task Description                             | Points |
 | ---------- |--------------------------------------------- | ------ |
 | 1          | Punching                                     |   2    |
@@ -194,7 +200,7 @@ The growth of more retro looking titles has grown exponentially and more or less
 | 3          | Finishers                                    |   3    |
 | 4          | Combo counter                                |   2    |
 
-#### 1.8.3 Collision
+#### 1.9.3 Collision
 | User Story | Task Description                             | Points |
 | ---------- |--------------------------------------------- | ------ |
 | 1          | Character contact with ground                |   2    |
@@ -202,14 +208,14 @@ The growth of more retro looking titles has grown exponentially and more or less
 | 3          | Hazards                                      |   3    |
 | 4          | Health                                       |   1    |
 
-#### 1.8.4 Items
+#### 1.9.4 Items
 | User Story | Task Description                             | Points |
 | ---------- |--------------------------------------------- | ------ |
 | 1          | Item functionality                           |   2    |
 | 2          | Money Counter and Quota                      |   3    |
 | 3          | Interaction                                  |   1    |
 
-#### 1.8.5 Enemies
+#### 1.9.5 Enemies
 | User Story | Task Description                             | Points |
 | ---------- |--------------------------------------------- | ------ |
 | 1          | Pathing                                      |   2    |
