@@ -531,7 +531,80 @@ Well embedded and upheld user access controls will restrict the applications, pr
 
 Monitoring software activity and analysing it to identify malicious or unusual activity, is a good call to help recognise a breach [17].
 
-### 3.4	Conclusion
+### 3.4 Primary Research
+#### 3.4.1 Introduction
+In the wake of security breaches, it is revealed that likelihood of an attack is very high and the effects can be devastating to that of a company. To aid in the report, I have devised a survey to gather information on the awareness of vulnerabilities, knowledge and prevention of vulnerabilities and personal security, mainly to understand people’s stance and knowledge to security; how important it is, if they do understand the implications of the lack of security and how they can reduce the vulnerabilities that rise the chance of being attacked.
+
+The survey was divided into three parts: Awareness, Software Security and Personal Security. This was mainly done to facilitate the survey and the question structure for this report. The first part is more of a mixture between quantitative and qualitative questions, mainly to back up what the user has answered in the first part of the question to actually see if their knowledge actually stands, helping out results further to the report. The second part of the report is more qualitative, requesting the user give more detailed answers to the questions so it helps understand what they know about software security, where just using quantitative questions wouldn’t gather as much in this regard. The third part of the survey is more along the lines of quantitative questioning as it helps give truly honest answers from users and doesn’t look like the questions are trying to expose the user. Qualitative questioning in this part would mean either untrue answers or answers that would be hard to draw a conclusion to.
+
+A selection of 20 people was chosen to answer all selected at random from different parts of the IT department of the West Herts college. The reason behind this method of sampling is that the answers should vary from person to person and should result in some interesting results. The people who answered the surveys will not have their names recorded and all physical copies will be disposed of indefinitely after the results are written up to excel.
+
+#### 3.4.2 How well do people know software vulnerabilities and vulnerabilities in general?
+
+![Chart 1](https://github.com/LBruni98/Jet-Set-Willy-3-A-New-Beginning/blob/master/Images/Chart1.png)
+
+For the first Question, it asked for the knowledge of software vulnerabilities. As the chart states, a majority of people were more along the lines of ‘average’ knowledge. Second best being ‘good’ knowledge, the main answer that should be expected of students working in the IT department, especially in regard to software development. The results were also taken from different departments, such as a business or others that wondered by, such as tutors, so their knowledge would be ‘poor’, however, what surprised me was the fact that no one answered ‘very poor’, meaning there was at least a low-level knowledge of software vulnerabilities.
+
+Onto part b of the first question. This part was mainly used as a backup towards the first question, in which the reason behind was to verify if the person does indeed know what vulnerabilities are. Almost all answers were backed up clearly, but it’s interesting to note that the people that two people that answered ‘average’ and ‘good’ did not back up their question and instead either wrote ‘nothing’ in the box or didn’t write anything at all. This could mean many things, commonly though, it could mean that they actually have no idea or simply forgot.
+
+![Chart 2](https://github.com/LBruni98/Jet-Set-Willy-3-A-New-Beginning/blob/master/Images/Chart2.png)
+
+The second question has the same format but asks on the types of vulnerabilities that they know off, rather than vulnerabilities in software. The expected result would be that at least a low-level amount of knowledge of viruses regardless, where certain participants did answer with a ‘good’ despite their answer in the first question of this part. However, it also happened vice versa (answered ‘poor’ or ‘very poor’) with a couple of participants, which is surprising considering that their results in the last question have been answered with ‘good’. This could mean anything.
+
+Part b of this question is similar to the results in the first question, where answers backed up their knowledge. It’s important to note that those who answered with ‘Excellent’ gave more in-depth answers with examples to showcase their knowledge. This was the same as in the first question of this section, where those who answered ‘Excellent’ were sure to give answers that were different to those who answered ‘Good’ or ‘Average’ in the first part.
+
+#### 3.4.3 What can a programmer do to prevent and reduce software vulnerabilities?
+The next part of the survey was more of written answers and is the perfect basis for this question.
+
+The first question was in software vulnerabilities, ‘How do you reduce vulnerabilities?’. All had answered with what would be commonly used to reduce vulnerabilities so at least a level of understanding is present with how they can reduce vulnerabilities. The quality in answers varies between departments, with those in business or other departments answering with ‘Install Anti-virus software’ or obvious answers along the lines. Those in software development departments answered more in depth, with ‘checking code’ or ‘software analysis’.
+
+The second question revolves around areas of mitigation, ‘What sort of methods would make for good mitigation?’. This question revolves around what sort of methods would the developer take in case an attack should happen. Unfortunately, a majority of answers show that some people didn’t understand the question whatsoever, answering with nothing; common from those in departments other than software development, or answering with the same from the first question; common here from development departments. Only a couple of participants answered with proper mitigation techniques, so if the wording of the question being hard to understand may be up for debate.
+
+The third question, ‘What are the issues of a vulnerable piece of software?’, goes into what consequences may arise if the software is not secure or developed well. As usual, the software development students and those who had good knowledge based on the first part gave pretty in depth and clear answers, but what is surprising is that some participants in business or other sectors gave good and relative answers that would be answered by those in software development, meaning that it could be picked up. Others in business or other sectors, were indifferent or just didn’t answer.
+
+#### 3.4.4 How do people apply security in their personal lives?
+The final part of the survey, investigates how secure people are in their personal lives and if they can apply it to their lives.
+
+![Chart 3](https://github.com/LBruni98/Jet-Set-Willy-3-A-New-Beginning/blob/master/Images/Chart3.png)
+
+The first question asks if the participants go on social media. The chart above shows that all but one participant answered with ‘yes’, showing that they remain social online. The reason can vary for the one person who doesn’t go on social media, but in relation to the survey could be information sharing.
+
+![Chart 4](https://github.com/LBruni98/Jet-Set-Willy-3-A-New-Beginning/blob/master/Images/Chart4.png)
+
+The next question asks how much personal information is shared online. The pie chart above shows that the majority of answers are ‘only a few’ and ‘Some of it’, these answers being that the only information given out is personal information to that of banks or login information. Only one answered ‘not at all’ so chances are that no personal information was given and no one said ‘all of it’, which went to what I expected.
+
+![Chart 5](https://github.com/LBruni98/Jet-Set-Willy-3-A-New-Beginning/blob/master/Images/Chart5.png)
+
+The next question goes into if one or multiple emails are used for all uses, this being personal or business, etc. The majority of people said no, indicating that more than one email is used for various purposes. Some people did say ‘yes’, meaning they might be unaware of the risks associated to having only one email for all purposes.
+
+![Chart 6](https://github.com/LBruni98/Jet-Set-Willy-3-A-New-Beginning/blob/master/Images/Chart6.png)
+
+The fourth question goes into the number of passwords used when logging in to various sites. The reason for this question is because of the risks accompanying having only one password and to understand if the participants know this risk. The chart shows that half of participants had voted to having ‘4+’ passwords, meaning that they understand the risks given to having minimal. What is important to note is that all participants have more than one password.
+
+![Chart 7](https://github.com/LBruni98/Jet-Set-Willy-3-A-New-Beginning/blob/master/Images/Chart7.png)
+
+The fifth question revolves around which password is harder to crack. Unlike the rest of the survey, this is the only question that has a correct answer. Both passwords were written out and tested on its amount of time to crack by using the site https://howsecureismypassword.net, a site that safely checks the password and based on the computer, returns the amount of time it would take to crack it. The password ‘SomeInfuriatingOverworkedCars’ takes substantially more time to crack than ‘In54N3b0sS’ because of how the structure of the password.
+
+The majority of people come to the conclusion, based on the bar chart, that ‘In54N3b0sS’ takes longer to crack than ‘SomeInfuriatingOverworkedCars’ because of the assumption of the numbers and the randomly cased letter would make for a reinforced password.
+
+The next question is ‘Do you regularly install updates?’. The importance here being that installing updates makes for an up to date and secure version of the software. All 20 of the participants had answered ‘yes’. This cancels out the reason for a chart.
+
+![Chart 8](https://github.com/LBruni98/Jet-Set-Willy-3-A-New-Beginning/blob/master/Images/Chart8.png)
+
+The final question tests the participant on their knowledge of phishing emails; emails that coax the user to giving valuable information to scammers. This question is set the same way as the questions in the first part of the survey with a second question that serves to back up the participant on their knowledge.
+
+The chart above shows that the majority voted yes and in the second part of the question, gave sufficient factors of phishing links such as links in the email or poorly worded email addresses. Only one participant who answered ‘yes’ didn’t respond in the second part of the question.
+
+
+### 3.5	Conclusion
+#### 5.1 Primary Research Conclusion
+The results of the survey confirm numerous things; the answers to the main questions and how well people understand vulnerabilities. It is revealed that the results confirm that there are a majority of people that understand software vulnerabilities, security and what makes for secure software, but the questions have just barely been answered due to the fact that some of the questions in the survey were answered barely.
+
+The first question reveals that people have an average understanding of software vulnerabilities and vulnerabilities in general. From the results of the first part of the survey reveal that the majority have answered both parts and most does back up their knowledge. Those who claim to have answered well and didn’t back up their answer show that they don’t actually understand vulnerabilities in software or in general.
+The second main question shows that they only understand how to ensure that software security and what the risks associated with unsecure software can bring, rather than actually understand prevention methods to do in case of any attack. The results show that only a few can show what methods of prevention that a developer would carry out.
+The third question answers the question of how they can apply security in their lives. The survey shows that the vast majority of participants take measures to ensure security and understand what sort of malicious stuff can arise, showing us that they are more than capable of applying security safely.
+
+#### 3.5.2 Secondary Research Conclusion
 This conclusion ties with the case studies of both the Yahoo data breach and the NHS ransomware attack, it is revealed that the sole reason behind the attacks were down to the negligence of both organisations, where the difference lies in how the attack was brought on or handled. But in both cases on the matter to the cause of attacks, it is revealed that the attacks were caused because of outdated software, leaving an exploit open towards the attacker; where the case of Yahoo was because of outdated and easy-to-crack security tools that allowed the attacker to easily access Yahoo’ database, along with personal names, emails and hashed passwords, spanning over a devastating three billion users, and regarding the NHS case, an old unsupported operating system, Windows XP, was used as the main OS for all computers within the trust centre, lacking security controls currently implemented in more modern operating systems, having the attacker to exploit old tools and poorly embedded and maintained user controls to take control and access the files to encrypt.
 
 Now, onto how each case was handled, both were handled poorly; the attack caused disruptions to the NHS centres and in turn had caused cancellation of appointments, leading to outrage amongst patients. Yahoo’s was more controversial, with them only issuing a disclosure of the breach three years later from the actual attack, the main issue being that the security team had the knowledge that the foundation was breached by a hacker, but failed to even try to enforce any prevention method. The NHS attack had sorted out in the end, despite the ongoing disruption to their workstations and systems, but the Yahoo breach had left all the accounts at risk and action taken was late. This dealing a massive blow to Yahoo.
@@ -539,7 +612,7 @@ Now, onto how each case was handled, both were handled poorly; the attack caused
 Both were down to negligence and in my opinion on both matters, it seems that the issues were down to the lack of mitigation techniques. In the case of yahoo, the factors here where the outdated security tools, lack of analysis and lack of action, as it was clear that they knew the attack had been carried out, but only brought the breach to light at a later date. Had there been monitoring of user activity, finding any unusual activity would have meant that there was a breach and in turn would lead to quicker response. Updated tools would have also meant that the possibility of an exploit becoming apparent would be very unlikely.
 In the case of the NHS, it would’ve been simple to impose the newest, modern operating system, containing tools that aren’t present in older operating systems. Forcing cyber security standards within every trust would also have proven beneficial as that can impose tighter security and better embedded access controls.
 
-##### 3.5 References
+##### 3.6 References
 1.	Software Development. [online]. Techopedia. Available from: <https://www.techopedia.com/definition/16431/software-development>. [Accessed 19 February 2018].
 2.	Elysium Academy Private Limited (2017). What are the Software Development Life Cycle (SDLC) phases? [online]. LinkedIn. Available from: <https://www.linkedin.com/pulse/what-software-development-life-cycle-sdlc-phases-private-limited>. [Accessed 2 March 2018].
 3.	Duncan Haughey (2014). REQUIREMENTS GATHERING 101. [online]. Project Smart. Available from: <https://www.projectsmart.co.uk/requirements-gathering.php>. [Accessed 02 March 2018].
