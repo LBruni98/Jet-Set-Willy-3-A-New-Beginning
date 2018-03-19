@@ -101,8 +101,15 @@ Written by Luke Bruni
     3.2.1 Yahoo 2013-2014 Data Breach
     3.2.2 NHS Cyber-Attack
   3.3	Mitigating Software Vulnerabilities
-  3.4 Conclusion
-  3.5 References
+  3.4 Primary Research
+    3.4.1 Introduction
+    3.4.2 How well do people know software vulnerabilities and vulnerabilities in general?
+    3.4.3 What can a programmer do to prevent and reduce software vulnerabilities?
+    3.4.4 How do people apply security in their personal lives?
+  3.5	Conclusion
+    3.5.1 Primary Research Conclusion
+    3.5.2 Secondary Research Conclusion
+  3.6 References
 4. Evaluation
   4.1	Testing Report
   4.2	Evaluation 
@@ -597,7 +604,7 @@ The chart above shows that the majority voted yes and in the second part of the 
 
 
 ### 3.5	Conclusion
-#### 5.1 Primary Research Conclusion
+#### 3.5.1 Primary Research Conclusion
 The results of the survey confirm numerous things; the answers to the main questions and how well people understand vulnerabilities. It is revealed that the results confirm that there are a majority of people that understand software vulnerabilities, security and what makes for secure software, but the questions have just barely been answered due to the fact that some of the questions in the survey were answered barely.
 
 The first question reveals that people have an average understanding of software vulnerabilities and vulnerabilities in general. From the results of the first part of the survey reveal that the majority have answered both parts and most does back up their knowledge. Those who claim to have answered well and didn’t back up their answer show that they don’t actually understand vulnerabilities in software or in general.
