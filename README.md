@@ -163,8 +163,8 @@ The overall cost of this project will add up to £1,599.
 
 ### 1.5 Risk Assessment
 
-| No. | Risk | Probability | Severity | Risk Effect | Contingency |
-| --- | ---- | ----------- | -------- | ----------- | ----------- |
+| No. | Risk | Probability | Severity | Risk Effect | Contingency/Mitigation |
+| --- | ---- | ----------- | -------- | ----------- | ---------------------- |
 | 1   | Scope Creep | 40% | Moderate | Original objectives and ideas may gradually expand to the point where the project may take far longer or have a possibility of failure. Scope creep may happen because of poor understanding of the original project, changes within the market or even competing forces within a company. | To prevent the risk of scope creep, ideas will be set and seen that they are followed with no major change. Any minor change is allowed, but with careful consideration, so factors like timelines are reworked slightly or more time is given to allow for this change. This in turn should help prevent any extreme scope creep. |
 | 2 | Hardware/software issues | 20% | Significant | Issues here maybe storage devices are missing, damaged or corrupt files, that hinder the project greatly because of important files becoming unavailable, having to start again from scratch. The PC or router would be damaged or flat out stop working, causing huge delays in the project until they are repaired or replaced. | Storage backups will be used in case of any failure to the storage devices mentioned in 1.5.1. There will also be backup storage of the backups in case of an extreme outcome of the risk. In regards to internet failure with the router being broken, again the backups will help should there be any cloud files that cannot be accessed and the research portion of the project will be carried out first as hopefully the development of the game doesn't require internet connection, even the multiplayer portion. As mentioned in 1.3.3, there are two computers, the software can be installed on both computers with the same license so should a computer break down, the other will be used in place so the project can continue. |
 | 3 | Cost Management | 35% | Catastrophic | During the project, issues such as lack of software or, in an unlikely case, changing ISPs to help with the internet may interfere with the original budget and cashing out for features or software for the product, with the risk of the project going over budget and the project failing because of it. | In case of the cost going too high, an extra amount is kept until anything comes up. This amount accounts for about half of the original budget. Also, the aims were considered carefully based on what I could use and the purhcases were already made. |
@@ -186,19 +186,19 @@ The growth of more retro looking titles has grown exponentially and more or less
 #### 1.9.1 Movement
 | User Story | Task Description                             | Points |
 | ---------- |--------------------------------------------- | ------ |
-| 1          | Moving left and right                        |   1    |
-| 2          | Character Movement Speed                     |   1    |
-| 3          | Jumping                                      |   1    |
-| 4          | Ducking                                      |   1    |
-| 5          | Key bindings                                 |   2    |
+| 1          | Have the character move left and right       |   1    |
+| 2          | Assigning the character's movement speed     |   1    |
+| 3          | Have the chcarcter jump                      |   1    |
+| 4          | Have the character duck                      |   1    |
+| 5          | Assign key binding for each action           |   2    |
 
 #### 1.9.2 Combat
 | User Story | Task Description                             | Points |
 | ---------- |--------------------------------------------- | ------ |
-| 1          | Punching                                     |   2    |
-| 2          | Blocking                                     |   2    |
-| 3          | Finishers                                    |   3    |
-| 4          | Combo counter                                |   2    |
+| 1          | Have the character punch and assign damage   |   2    |
+| 2          | Have the character Block                     |   2    |
+| 3          | Create finishers in combat                   |   3    |
+| 4          | Combo counter for measuring the amount of punches                                |   2    |
 
 #### 1.9.3 Collision
 | User Story | Task Description                             | Points |
@@ -211,8 +211,8 @@ The growth of more retro looking titles has grown exponentially and more or less
 #### 1.9.4 Items
 | User Story | Task Description                             | Points |
 | ---------- |--------------------------------------------- | ------ |
-| 1          | Item functionality                           |   2    |
-| 2          | Money Counter and Quota                      |   3    |
+| 1          | Make items functional (e.g. Picking up items progress the game)                           |   2    |
+| 2          | Make the money counter and quota functional to help progress the game                     |   3    |
 | 3          | Interaction                                  |   1    |
 
 #### 1.9.5 Enemies
