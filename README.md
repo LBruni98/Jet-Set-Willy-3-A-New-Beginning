@@ -12,8 +12,10 @@ Written by Luke Bruni
 1. Project Management
   1.1 Revisions
   1.2 General Aims
-    1.2.1 Main Objective
-    1.2.2 Secondary Objectives
+    1.2.1 Overview of the Project
+    1.2.2 Main Project Aims
+    1.2.3 Individual Aims
+    1.2.4 Objectives
   1.3 Requirements
     1.3.1 Scope
     1.3.2 Resources
@@ -125,19 +127,34 @@ Written by Luke Bruni
 |1.00   | Luke Bruni |05/02/2018 |Initial Document                                       |
 |1.10   | Luke Bruni |18/02/2018 |Heading and section changes along with more information|
 |1.11   | Luke Bruni |18/02/2018 |Information added to .DOC version                      |
+|1.12   | Luke Bruni |22/03/2018 |Important information of the game added                |
 
 ### 1.2 General Aims
-#### 1.2.1 Main Objective
+#### 1.2.1 Overview of the project
+The game Jet Set Willy 3 is the first year capstone project for my course at West Herts College, as part of rebooting retro games. The game is meant to be an unofficial sequel to the game, rather than just either remastering or remaking it, so as to justify the reason for the newer mechanics and features that I plan to add to the game. The game will be a cross between modern and retro, with the gameplay being revitialised for the modern market. Personally, another reason behind this project is to bring back an old icon from the past and introduce him to modern gaming
+
+#### 1.2.2 Main Project aims
 The main objective of this project is to create a rebooted version/sequel of the game 'Jet Set Willy'. The aim is to create this game with more features and a revitalised gameplay style.
 
-#### 1.2.2 Secondary Objectives
-One aim during this project is to gain more experience of the Unity engine and to get to know other tools that would be beneficial to the project, such as firebase, a database software that will be used for the multiplayer aspect.
+#### 1.2.3 Individual aims
+* As explained in the project's overview, I will need to create movement that would be on par with today's platformers
+* I will create a newer objective for the game as opposed to the older games
+* I will create a coop multiplayer environment that allows other players to play the story with each other
+* I will create a combat system for the game
+* I will plan to have something presented on the 23rd March 2018
+
+#### 1.2.4 Objectives
+* Have a fluid movement similar to that of more modern platformers as opposed to the stiff, slow movement of the older games, which was because of limitations of the time. The movement will be quick and more responsive which should help the game gain popularity with the target audience and will be tested by participants to make sure it achieves this goal. If it is considered by the partciipants to be smooth, then the movement has been achieved. Will have this by 2nd March 2018.
+* Devise the newer game objective to keep to the theme of the game. Money will be the newer objective and will have its own features, such as pickups, values and progression. Will have done by 14th February 2018 and will implement in game and test by 2nd March 2018.
+* Create the multiplayer aspect of the game using Firebase, a database system by google that is compatible with Unity. I will test the game to see if the other players are visible and move in real time. Once the player functions work perfectly, then the goal is achieved.
+* Create a combat system that will play a minor part in the game. The aim here is to not let it intefere too much with the original gameplay that is significant to the series. To test if the combat functions to what I want, I will test it in a playthrough. If the combat system doesn't make the player overpowered, then the objective is achieved. Will complete by 6th March 2018.
+* Create a demo that details all the progress that I have done in the game and showcase it to the client. The game should have all the important aspects of the game covered in a scripted playthrough. This will be tested by running the game and picking off the appropriate aspects of the game which are presentatble. Once the demo has a suitable amount of presenatable gameplay, I am able to present it. Will have ready on 23rd March 2018.
 
 ### 1.3 Requirements
 #### 1.3.1 Scope
 The game is labelled to be a sequel and will have a newer style to keep the game looking refreshed and not the same visually. As part of the newer features, the feel of Jet Set Willy must remain and shouldn't deviate too far from the original game.
 
-Jet Set Willy 3 will have a newer platforming system, more towards a modern audience with fluid control and good responsiveness, rather than the old system, which made the game difficult in some places and often impossible to clear. This should bode well with the newer mechanics of the game such as the constant scrolling and the faster gameplay.
+Jet Set Willy 3 will have a newer platforming mechanics, more towards a modern audience with fluid control and good responsiveness, rather than the old system, which made the game difficult in some places and often impossible to clear. This should bode well with the newer mechanics of the game such as the constant scrolling and the faster gameplay.
 
 Combat will be included to provide some action to the game. The player can punch, perform some combos and probably do some finishing moves, though this won't be the main aspect of the game, as the features must not spoil too much of the original formula. Enemies will be tough and the player can be easily overwhelmed, so avoidance is key.
 
@@ -163,10 +180,31 @@ The PC for home development will be my own system priced at the time at £789. A
 
 The internet that will be used cost £45 a month which as mentioned earlier with the amount of time for development will cost £135 for three months.
 
-The overall cost of this project will add up to £1,599.
+I am planning to create my own assets for this game and in order to create them, I'll use Microsoft Paint that has already come on my computer as standard. Photoshop will still be used incase of touch ups to the art and the cost of that is £20 a month. Development takes place over three months so that will add up to £60.
+
+The overall cost of this project will add up to £1,659.
+
+|ID|Resource Description|Expenses/plan|Total|
+|--|--------------------|--------|-----|
+|1|Unity Pro|£125/m over 3 months|£375.00|
+|2|Firebase|Free|£0.00|
+|3|Primary Laptop|Fixed Price|£789.00|
+|4|Secondary Laptop|Fixed Price|£300.00|
+|5|Internet and broadband|£45/m over 3 months|£135.00|
+|6|Developing on PC|Free|£0.00|
+|7|Microsoft Paint|Free|£0.00|
+|8|Photoshop|£20/m over 3 months|£60|
+||||**£1,659**|
 
 ### 1.4	Project Schedule
 ![Gantt Chart](https://github.com/LBruni98/Jet-Set-Willy-3-The-Unofficial-Sequel-/blob/master/Gantt%20Chart.jpg)
+
+#### 1.4.1 Milestones
+* 31st January 2018 - Initial idea
+* 19th February 2018 - Project Management Documentation
+* 23rd February 2018 - Design Documentation
+* 23rd March 2018 - Playable demo
+* 28th March 2018 - Playable, finished game
 
 ### 1.5 Risk Assessment
 
@@ -177,7 +215,7 @@ The overall cost of this project will add up to £1,599.
 | 3 | Cost Management | 35% | Catastrophic | During the project, issues such as lack of software or, in an unlikely case, changing ISPs to help with the internet may interfere with the original budget and cashing out for features or software for the product, with the risk of the project going over budget and the project failing because of it. | In case of the cost going too high, an extra amount is kept until anything comes up. This amount accounts for about half of the original budget. Also, the aims were considered carefully based on what I could use and the purhcases were already made. |
 
 ### 1.6 Quality
-At Reboot Games, it is compulsory to ensure that the project is up to its highest standard, meets the requirements stated and performs without flaws. Tests during the development of the code, will be made at the end of each iteration to ensure that they function accordingly to the 
+At Reboot Games, it is compulsory to ensure that the project is up to its highest standard, meets the requirements stated and performs without flaws. Tests during the development of the code, will be made at the end of each iteration to ensure that they function accordingly to the requirements, even elaborate testing and surveys from avid gamers will be made in order to determine if the philoshopical aims and individual aims have been achieved. Communication and constant updates should inform the client about each change to the game during development, so any changes won't have too much of an effect on the game and keeps to the original requirements. A schedule will be devised to order the tasks and ensure smooth development is carried out, so the game reaches the deadline on time and no corner cutting is present. After deployement, updates will still be pushed out, but not as great as in the development phase, mainly focusing on bug fixes that may arise from deployment.
 
 ### 1.7 Communication
 Being this is an individual project, communication won't be planned or arranged as if it were a fully-fledged group project. However, this won't be considered a major drawback, as I am allowed to communicate with other people who are working on their individual projects, mainly for the reason of supporting, help, tips for my own project or feedback. We can communicate within three days of the week when we're all available during the development and communication can stretch to social media, such as facebook or messenger, as well as phone calls. Communication will reach to all members at any time and not just going to the same person consecutively, but spacing out to others if I request them.
@@ -210,24 +248,24 @@ The growth of more retro looking titles has grown exponentially and more or less
 #### 1.9.3 Collision
 | User Story | Task Description                             | Points |
 | ---------- |--------------------------------------------- | ------ |
-| 1          | Character contact with ground                |   2    |
-| 2          | Hitboxes                                     |   2    |
-| 3          | Hazards                                      |   3    |
-| 4          | Health                                       |   1    |
+| 1          | Create the charcter contact with the ground              |   2    |
+| 2          | Create the player and enemy hitboxes to determine collision                                    |   2    |
+| 3          | Create Hitboxes to the hazards that hurt the player                                   |   3    |
+| 4          | Assign player Health                                       |   1    |
 
 #### 1.9.4 Items
 | User Story | Task Description                             | Points |
 | ---------- |--------------------------------------------- | ------ |
 | 1          | Make items functional (e.g. Picking up items progress the game)                           |   2    |
 | 2          | Make the money counter and quota functional to help progress the game                     |   3    |
-| 3          | Interaction                                  |   1    |
+| 3          | Make the charcter interact with the items                                 |   1    |
 
 #### 1.9.5 Enemies
 | User Story | Task Description                             | Points |
 | ---------- |--------------------------------------------- | ------ |
-| 1          | Pathing                                      |   2    |
-| 2          | Detecting the player                         |   5    |
-| 3          | Enemy Health                                 |   3    |
+| 1          | Create the pathing of the enemies                                   |   2    |
+| 2          | Create a system that alerts the enemy to the player                         |   5    |
+| 3          | Assign Enemy Health                                 |   3    |
 
 ### 1.10 Backlog
 #### 1.10.1 Week 1
