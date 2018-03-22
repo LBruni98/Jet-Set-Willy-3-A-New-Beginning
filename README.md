@@ -37,11 +37,12 @@ Written by Luke Bruni
     1.7.1 Technical Feasibility
     1.7.2 Market Feasibility
   1.8 Development Aims
-    1.8.1 Movement
-    1.8.2 Combat
-    1.8.3 Collision
-    1.8.4 Items
-    1.8.5 Enemies
+    1.8.1 User Stories
+    1.8.2 Movement
+    1.8.3 Combat
+    1.8.4 Collision
+    1.8.5 Items
+    1.8.6 Enemies
 2. Design Document
   2.1 Revisions
   2.2 Game Overview
@@ -229,6 +230,12 @@ The growth of more retro looking titles has grown exponentially and more or less
 
 ### 1.9	Development Aims
 #### 1.9.1 Movement
+1. As a user, I would want to move left and right
+2. As a user, I want to move at a fast rate
+3. As a user, I want to jump to get to ledges
+4. As a user, I want to duck to avoid attacks
+5. As a user, I want to control the character using a control setup
+
 | User Story | Task Description                             | Points |Due Date|
 | ---------- |--------------------------------------------- | ------ |--------|
 | 1          | Have the character move left and right       |   1    |24/02|
@@ -238,6 +245,11 @@ The growth of more retro looking titles has grown exponentially and more or less
 | 5          | Assign key binding for each action           |   2    |02/03|
 
 #### 1.9.2 Combat
+1. As a user, I would want the character to punch
+2. As a user, I want the character to block incoming punches
+3. As a user, I want the character to finish off the enemy
+4. As a user, I want to count how many times I punch the enemy
+
 | User Story | Task Description                             | Points |Due Date|
 | ---------- |--------------------------------------------- | ------ |--------|
 | 1          | Have the character punch and assign damage   |   2    |28/02|
@@ -246,6 +258,11 @@ The growth of more retro looking titles has grown exponentially and more or less
 | 4          | Combo counter for measuring the amount of punches                                |   2    |04/03|
 
 #### 1.9.3 Collision
+1. As a user, I would want the charcter to stay on the ground
+2. As a user, I want the character to bump into the characters
+3. As a user, I want the character to get hurt by the hazards
+4. As a user, I want to know how much health I have
+
 | User Story | Task Description                             | Points |Due Date|
 | ---------- |--------------------------------------------- | ------ |--------|
 | 1          | Create the charcter contact with the ground              |   2    |25/02|
@@ -254,6 +271,10 @@ The growth of more retro looking titles has grown exponentially and more or less
 | 4          | Assign player Health                                       |   1    |01/03|
 
 #### 1.9.4 Items
+1. As a user, I would want there to be many items
+2. As a user, I want to know how much money I have
+3. As a user, I want the character to pick up the money
+
 | User Story | Task Description                             | Points |Due Date|
 | ---------- |--------------------------------------------- | ------ |--------|
 | 1          | Make items functional (e.g. Picking up items progress the game)                           |   2    |01/03|
@@ -261,6 +282,10 @@ The growth of more retro looking titles has grown exponentially and more or less
 | 3          | Make the charcter interact with the items                                 |   1    |02/03|
 
 #### 1.9.5 Enemies
+1. As a user, I would want there to be patrolling enemies
+2. As a user, I want to the enemy to know where I am
+3. As a user, I want to know when the enemy gets knocked out
+
 | User Story | Task Description                             | Points |Due Date|
 | ---------- |--------------------------------------------- | ------ |--------|
 | 1          | Create the pathing of the enemies            |   2    |25/02|
