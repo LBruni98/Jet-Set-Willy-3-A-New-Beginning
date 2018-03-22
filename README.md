@@ -229,43 +229,43 @@ The growth of more retro looking titles has grown exponentially and more or less
 
 ### 1.9	Development Aims
 #### 1.9.1 Movement
-| User Story | Task Description                             | Points |
-| ---------- |--------------------------------------------- | ------ |
-| 1          | Have the character move left and right       |   1    |
-| 2          | Assigning the character's movement speed     |   1    |
-| 3          | Have the chcarcter jump                      |   1    |
-| 4          | Have the character duck                      |   1    |
-| 5          | Assign key binding for each action           |   2    |
+| User Story | Task Description                             | Points |Due Date|
+| ---------- |--------------------------------------------- | ------ |--------|
+| 1          | Have the character move left and right       |   1    |24/02|
+| 2          | Assigning the character's movement speed     |   1    |25/02|
+| 3          | Have the chcarcter jump                      |   1    |26/02|
+| 4          | Have the character duck                      |   1    |28/02|
+| 5          | Assign key binding for each action           |   2    |02/03|
 
 #### 1.9.2 Combat
-| User Story | Task Description                             | Points |
-| ---------- |--------------------------------------------- | ------ |
-| 1          | Have the character punch and assign damage   |   2    |
-| 2          | Have the character Block                     |   2    |
-| 3          | Create finishers in combat                   |   3    |
-| 4          | Combo counter for measuring the amount of punches                                |   2    |
+| User Story | Task Description                             | Points |Due Date|
+| ---------- |--------------------------------------------- | ------ |--------|
+| 1          | Have the character punch and assign damage   |   2    |28/02|
+| 2          | Have the character Block                     |   2    |01/03|
+| 3          | Create finishers in combat                   |   3    |02/03|
+| 4          | Combo counter for measuring the amount of punches                                |   2    |04/03|
 
 #### 1.9.3 Collision
-| User Story | Task Description                             | Points |
-| ---------- |--------------------------------------------- | ------ |
-| 1          | Create the charcter contact with the ground              |   2    |
-| 2          | Create the player and enemy hitboxes to determine collision                                    |   2    |
-| 3          | Create Hitboxes to the hazards that hurt the player                                   |   3    |
-| 4          | Assign player Health                                       |   1    |
+| User Story | Task Description                             | Points |Due Date|
+| ---------- |--------------------------------------------- | ------ |--------|
+| 1          | Create the charcter contact with the ground              |   2    |25/02|
+| 2          | Create the player and enemy hitboxes to determine collision                                    |   2    |28/03|
+| 3          | Create Hitboxes to the hazards that hurt the player                                   |   3    |01/03|
+| 4          | Assign player Health                                       |   1    |01/03|
 
 #### 1.9.4 Items
-| User Story | Task Description                             | Points |
-| ---------- |--------------------------------------------- | ------ |
-| 1          | Make items functional (e.g. Picking up items progress the game)                           |   2    |
-| 2          | Make the money counter and quota functional to help progress the game                     |   3    |
-| 3          | Make the charcter interact with the items                                 |   1    |
+| User Story | Task Description                             | Points |Due Date|
+| ---------- |--------------------------------------------- | ------ |--------|
+| 1          | Make items functional (e.g. Picking up items progress the game)                           |   2    |01/03|
+| 2          | Make the money counter and quota functional to help progress the game                     |   3    |02/03|
+| 3          | Make the charcter interact with the items                                 |   1    |02/03|
 
 #### 1.9.5 Enemies
-| User Story | Task Description                             | Points |
-| ---------- |--------------------------------------------- | ------ |
-| 1          | Create the pathing of the enemies                                   |   2    |
-| 2          | Create a system that alerts the enemy to the player                         |   5    |
-| 3          | Assign Enemy Health                                 |   3    |
+| User Story | Task Description                             | Points |Due Date|
+| ---------- |--------------------------------------------- | ------ |--------|
+| 1          | Create the pathing of the enemies            |   2    |25/02|
+| 2          | Create a system that alerts the enemy to the player                         |   5    |01/03|
+| 3          | Assign Enemy Health                                 |   3    |04/03|
 
 ### 1.10 Backlog
 #### 1.10.1 Week 1
