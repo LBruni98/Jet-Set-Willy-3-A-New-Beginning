@@ -16,33 +16,29 @@ Written by Luke Bruni
     1.2.2 Main Project Aims
     1.2.3 Individual Aims
     1.2.4 Objectives
-  1.3 Requirements
-    1.3.1 Scope
-    1.3.2 Resources
-      1.3.2.1 Unity
-      1.3.2.2 Firebase
-      1.3.2.3 Internet Access
-      1.3.2.4 Appropriate Computer
-    1.3.3 Cost
+  1.3 Project Management Plan
+    1.3.1 Overview
+    1.3.2 Scope
+    1.3.3 Resources
+      1.3.3.1 Unity
+      1.3.3.2 Firebase
+      1.3.3.3 Internet Access
+      1.3.3.4 Appropriate Computer
+    1.3.4 Cost
   1.4 Project Schedule
   1.5 Risk Assessment
-    1.5.1 Scope Creep
-    1.5.2 Hardware/software issues
-    1.5.3 Cost Management
-  1.6 Contingency plans
-    1.6.1 Scope Creep
-    1.6.2 Hardware/software issues
-    1.6.3 Cost Management
-  1.7 Feasibility Report
-    1.7.1 Technical Feasibility
-    1.7.2 Market Feasibility
-  1.8 Development Aims
-    1.8.1 User Stories
-    1.8.2 Movement
-    1.8.3 Combat
-    1.8.4 Collision
-    1.8.5 Items
-    1.8.6 Enemies
+  1.6 Quality
+  1.7 Communication
+  1.8 Feasibility Report
+    1.8.1 Technical Feasibility
+    1.8.2 Market Feasibility
+  1.9 Development Aims
+    1.9.1 User Stories
+    1.9.2 Movement
+    1.9.3 Combat
+    1.9.4 Collision
+    1.9.5 Items
+    1.9.6 Enemies
 2. Design Document
   2.1 Revisions
   2.2 Game Overview
@@ -151,30 +147,33 @@ The main objective of this project is to create a rebooted version/sequel of the
 * Create a combat system that will play a minor part in the game. The aim here is to not let it intefere too much with the original gameplay that is significant to the series. To test if the combat functions to what I want, I will test it in a playthrough. If the combat system doesn't make the player overpowered, then the objective is achieved. Will complete by 6th March 2018.
 * Create a demo that details all the progress that I have done in the game and showcase it to the client. The game should have all the important aspects of the game covered in a scripted playthrough. This will be tested by running the game and picking off the appropriate aspects of the game which are presentatble. Once the demo has a suitable amount of presenatable gameplay, I am able to present it. Will have ready on 23rd March 2018.
 
-### 1.3 Requirements
-#### 1.3.1 Scope
+### 1.3 Project Management Plan
+#### 1.3.1 Overview
+
+
+#### 1.3.2 Scope
 The game is labelled to be a sequel and will have a newer style to keep the game looking refreshed and not the same visually. As part of the newer features, the feel of Jet Set Willy must remain and shouldn't deviate too far from the original game.
 
 Jet Set Willy 3 will have a newer platforming mechanics, more towards a modern audience with fluid control and good responsiveness, rather than the old system, which made the game difficult in some places and often impossible to clear. This should bode well with the newer mechanics of the game such as the constant scrolling and the faster gameplay.
 
 Combat will be included to provide some action to the game. The player can punch, perform some combos and probably do some finishing moves, though this won't be the main aspect of the game, as the features must not spoil too much of the original formula. Enemies will be tough and the player can be easily overwhelmed, so avoidance is key.
 
-#### 1.3.2 Resources
+#### 1.3.3 Resources
 The required resources are as followed:
 
-##### 1.3.2.1 Unity
+##### 1.3.3.1 Unity
 The game will be developed in unity, reasons being that I have past experience of using the engine and that it has features that can help me with developing the game.
 
-##### 1.3.2.2 Firebase
+##### 1.3.3.2 Firebase
 Firebase will be used for the games multiplayer aspect, with features contained that are common with most game hosting servers. The players data will be stored on the firebase database and tools that allow for players to be a assigned a space in a game. Conveniently, Firebase can be used with Unity with it's own features for monitoring players and messaging. 
 
-##### 1.3.2.3 Internet Access
+##### 1.3.3.3 Internet Access
 Internet access will absolutely necessary because research will be carried out in this project; secondary research by reading articles and webpages and primary research with web serveys and such. This will also be used to keep track of analytics of players in multiplayer games and to test the multiplayer portion of the game, as well as eventual publishing of the game.
 
-##### 1.3.2.4 Appropriate Computer
+##### 1.3.3.4 Appropriate Computer
 At least a decent computer must be used in order help with the development of the game. The computer must be matching the minimum requirements of the software that will be used during development and to make sure that it can run well without issues.
 
-#### 1.3.3 Cost
+#### 1.3.4 Cost
 The platform I am developing is for PC where it is free and requires no developing license whatsoever. Unity Pro which is the engine that will be used will come at £125 a month. Development of the project will take around three months so that will add up to £375. The version of Firebase that will be used is entirely free, containing the features that I need so there will be no upgrading.
 
 The PC for home development will be my own system priced at the time at £789. A secondary PC for home development will also be used for writing up documentation or for backup, which costs £300.
@@ -291,10 +290,6 @@ The growth of more retro looking titles has grown exponentially and more or less
 | 1          | Create the pathing of the enemies            |   2    |25/02|
 | 2          | Create a system that alerts the enemy to the player                         |   5    |01/03|
 | 3          | Assign Enemy Health                                 |   3    |04/03|
-
-### 1.10 Backlog
-#### 1.10.1 Week 1
-#### 1.10.2 Week 2
 
 ## 2. Design Document
 ### 2.1 Revisions
