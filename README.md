@@ -107,6 +107,7 @@ Written by Luke Bruni
     3.4.4 How do people apply security in their personal lives?
   3.5	Conclusion
     3.5.1 Primary Research Conclusion
+      3.5.1.1 Communicating Recommendations
     3.5.2 Secondary Research Conclusion
   3.6 References
 4. Evaluation
@@ -149,7 +150,7 @@ The main objective of this project is to create a rebooted version/sequel of the
 
 ### 1.3 Project Management Plan
 #### 1.3.1 Overview
-
+This part of the document specifies a plan for the development of the game and outlines the resources and schedule that will be included within development. It will be subject to change during the game's development. The plan is based on the objectives and aims in the previous section.
 
 #### 1.3.2 Scope
 The game is labelled to be a sequel and will have a newer style to keep the game looking refreshed and not the same visually. As part of the newer features, the feel of Jet Set Willy must remain and shouldn't deviate too far from the original game.
@@ -660,7 +661,6 @@ The final question tests the participant on their knowledge of phishing emails; 
 
 The chart above shows that the majority voted yes and in the second part of the question, gave sufficient factors of phishing links such as links in the email or poorly worded email addresses. Only one participant who answered ‘yes’ didn’t respond in the second part of the question.
 
-
 ### 3.5	Conclusion
 #### 3.5.1 Primary Research Conclusion
 The results of the survey confirm numerous things; the answers to the main questions and how well people understand vulnerabilities. It is revealed that the results confirm that there are a majority of people that understand software vulnerabilities, security and what makes for secure software, but the questions have just barely been answered due to the fact that some of the questions in the survey were answered barely.
@@ -668,6 +668,13 @@ The results of the survey confirm numerous things; the answers to the main quest
 The first question reveals that people have an average understanding of software vulnerabilities and vulnerabilities in general. From the results of the first part of the survey reveal that the majority have answered both parts and most does back up their knowledge. Those who claim to have answered well and didn’t back up their answer show that they don’t actually understand vulnerabilities in software or in general.
 The second main question shows that they only understand how to ensure that software security and what the risks associated with unsecure software can bring, rather than actually understand prevention methods to do in case of any attack. The results show that only a few can show what methods of prevention that a developer would carry out.
 The third question answers the question of how they can apply security in their lives. The survey shows that the vast majority of participants take measures to ensure security and understand what sort of malicious stuff can arise, showing us that they are more than capable of applying security safely.
+
+##### 3.5.1.1 Communicating Recommendations
+In response to the first question, it is important to understand the implications of software vulnerabilities as well as vulnerabilities in general, but given the results, I would say, in my opinion, that the knowledge presented was lacking from the following groups, both those involved in software development and business, despite their lack of utilising software. I would recommend that this knowledge is more enforced in both groups, educating software developers a more in depth view of software vulnerabilities and this would help considerably when it comes actually develop software, thus effectively apply their knowledge and techniques. With the other groups, at the least should have the knowledge of viruses and general vulnerabilities. The reason I’m recommending this is because viruses are a persistent threat in both normal and work lives. By learning this, they can easily recognize viruses and the threats associated with it, such as virus links in emails, etc.
+
+My second recommendation mainly aims towards the group who are mainly involved in software development or similar. Those part of that group should gain more knowledge of software vulnerabilities, to pick up more on the foundations of said vulnerabilities, including methods of mitigation and security in software, also to be able to apply these secure methods when developing software. This in turn should help them understand software vulnerabilities and how to counteract them.
+
+In regards to personal security, the answers from the survey generally showcase that in most cases, they understand the risks involved and do act on it (i.e. more than one email for different uses), leading to very interesting answers. I will still recommend that this knowledge of personal security still be enforced so people will improve on browsing the internet safely and other personal measures. This will also help with those who don’t normally use these measures when doing stuff online.
 
 #### 3.5.2 Secondary Research Conclusion
 This conclusion ties with the case studies of both the Yahoo data breach and the NHS ransomware attack, it is revealed that the sole reason behind the attacks were down to the negligence of both organisations, where the difference lies in how the attack was brought on or handled. But in both cases on the matter to the cause of attacks, it is revealed that the attacks were caused because of outdated software, leaving an exploit open towards the attacker; where the case of Yahoo was because of outdated and easy-to-crack security tools that allowed the attacker to easily access Yahoo’ database, along with personal names, emails and hashed passwords, spanning over a devastating three billion users, and regarding the NHS case, an old unsupported operating system, Windows XP, was used as the main OS for all computers within the trust centre, lacking security controls currently implemented in more modern operating systems, having the attacker to exploit old tools and poorly embedded and maintained user controls to take control and access the files to encrypt.
