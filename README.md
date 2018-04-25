@@ -107,7 +107,7 @@ Written by Luke Bruni
     3.4.4 How do people apply security in their personal lives?
   3.5	Conclusion
     3.5.1 Primary Research Conclusion
-      3.5.1.1 Reflection on the Value of Research
+      3.5.1.1 Reflection on the Value of Research and Research Methods
       3.5.1.2 Communicating Recommendations
     3.5.2 Secondary Research Conclusion
   3.6 References
@@ -670,7 +670,7 @@ The first question reveals that people have an average understanding of software
 The second main question shows that they only understand how to ensure that software security and what the risks associated with unsecure software can bring, rather than actually understand prevention methods to do in case of any attack. The results show that only a few can show what methods of prevention that a developer would carry out.
 The third question answers the question of how they can apply security in their lives. The survey shows that the vast majority of participants take measures to ensure security and understand what sort of malicious stuff can arise, showing us that they are more than capable of applying security safely.
 
-##### 3.5.1.1 Reflection on the Value of Research
+##### 3.5.1.1 Reflection on the Value of Research and Research Methods
 The primary research overall was more or less a success, as it did answer the questions that was the basis for this research. All twenty people managed to answer almost all of the survey with little to no trouble and has proved to provide a good amount of information that helped with answering the questions and assisting with recommendations. With the way I conducted the research, I managed to get the most honest answers that supported this report. The research was conducted with 20 people in the IT section of West Herts College, differing in branch and what was taught, such as business or software development, with emphasis on random sampling, giving us accurate and authentic results. Had the researched been structured differently, such as changing the sampling method or the people involved, then less than satisfactory results would be produced, making it harder to come to a complete verdict or result in biased answers.
 
 As part of an in-depth view, I had structured the survey the way with random sampling so the people I chose had an equal chance of being selected. I thought that in a way, more random answers would be present and all would vary on person to person, this way it could help facilitate to more honest answers and would help me make better recommendations. In my opinion, if I were to use other sampling methods, such as Judgement or convenience sampling, then chances are that the result of answers would’ve been mostly biased or not clear cut. However, I find that the Random Sampling method does have its problems, moreover the risk of sampling error which is prominent with this method of sampling. If I had gone for a sampling method such as Systematic or Stratified, the answers I would have gotten would be more accurate and in turn the participants would’ve answered all of the questions on the survey rather than some give nothing or little for an answer.
