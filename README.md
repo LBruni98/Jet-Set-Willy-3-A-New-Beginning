@@ -107,7 +107,8 @@ Written by Luke Bruni
     3.4.4 How do people apply security in their personal lives?
   3.5	Conclusion
     3.5.1 Primary Research Conclusion
-      3.5.1.1 Communicating Recommendations
+      3.5.1.1 Reflection on the Value of Research
+      3.5.1.2 Communicating Recommendations
     3.5.2 Secondary Research Conclusion
   3.6 References
 4. Evaluation
