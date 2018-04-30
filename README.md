@@ -96,16 +96,16 @@ Written by Luke Bruni
     3.1.1 Software Development
     3.1.2 Vulnerabilities
       3.1.2.1 Types of Vulnerabilities
-  3.2	Case Studies
+  3.2 Case Studies
     3.2.1 Yahoo 2013-2014 Data Breach
     3.2.2 NHS Cyber-Attack
-  3.3	Mitigating Software Vulnerabilities
+  3.3 Mitigating Software Vulnerabilities
   3.4 Primary Research
     3.4.1 Introduction
     3.4.2 How well do people know software vulnerabilities and vulnerabilities in general?
     3.4.3 What can a programmer do to prevent and reduce software vulnerabilities?
     3.4.4 How do people apply security in their personal lives?
-  3.5	Conclusion
+  3.5 Conclusion
     3.5.1 Primary Research Conclusion
       3.5.1.1 Reflection on the Value of Research and Research Methods
       3.5.1.2 Communicating Recommendations
@@ -604,7 +604,9 @@ In the wake of security breaches, it is revealed that likelihood of an attack is
 
 The survey was divided into three parts: Awareness, Software Security and Personal Security. This was mainly done to facilitate the survey and the question structure for this report. The first part is more of a mixture between quantitative and qualitative questions, mainly to back up what the user has answered in the first part of the question to actually see if their knowledge actually stands, helping out results further to the report. The second part of the report is more qualitative, requesting the user give more detailed answers to the questions so it helps understand what they know about software security, where just using quantitative questions wouldn’t gather as much in this regard. The third part of the survey is more along the lines of quantitative questioning as it helps give truly honest answers from users and doesn’t look like the questions are trying to expose the user. Qualitative questioning in this part would mean either untrue answers or answers that would be hard to draw a conclusion to.
 
-A selection of 20 people was chosen to answer all selected at random from different parts of the IT department of the West Herts college. The reason behind this method of sampling is that the answers should vary from person to person and should result in some interesting results. The people who answered the surveys will not have their names recorded and all physical copies will be disposed of indefinitely after the results are written up to excel.
+A selection of 20 people was chosen to answer all selected at random from different parts of the IT department of the West Herts college. The reason behind this method of sampling is that the answers should vary from person to person and should result in some interesting results. Students and staff were chosen from different parts of this department because of the amount of competency and knowledge that varies and in turn, should provide unbiased results and help determine the knowledge that each section of the department has of software vulnerabilities.
+
+The people who answered the surveys will not have their names recorded and all physical copies will be disposed of indefinitely after the results are written up to excel.
 
 #### 3.4.2 How well do people know software vulnerabilities and vulnerabilities in general?
 
