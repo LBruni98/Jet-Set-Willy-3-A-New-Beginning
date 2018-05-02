@@ -606,7 +606,14 @@ The survey was divided into three parts: Awareness, Software Security and Person
 
 A selection of 20 people was chosen to answer all selected at random from different parts of the IT department of the West Herts college. The reason behind this method of sampling is that the answers should vary from person to person and should result in some interesting results. Students and staff were chosen from different parts of this department because of the amount of competency and knowledge that varies and in turn, should provide unbiased results and help determine the knowledge that each section of the department has of software vulnerabilities.
 
-The people who answered the surveys will not have their names recorded and all physical copies will be disposed of indefinitely after the results are written up to excel.
+In regards to any ethical issues that may arise, the tutors of each class accept to the survey and not much in the way of personal information will be required, just the names of the participant and the dates. The people who answered the surveys will not have their names recorded and all physical copies will be disposed of indefinitely after the results are written up to excel.
+
+##### 3.4.1.1 Data Analysis Plan
+The plan will be first to lay all the information out in order to properly analyse the data. The results from the survey were written up into excel, as shown below:
+
+1[Excel Writeup](https://github.com/LBruni98/Jet-Set-Willy-3-A-New-Beginning/blob/master/Excel%20Writeup%20Section.png)
+
+To see thes rest of the excel writeup click [here.](https://github.com/LBruni98/Jet-Set-Willy-3-A-New-Beginning/blob/master/Security%20Research%20Survey.xlsx?raw=true)
 
 #### 3.4.2 How well do people know software vulnerabilities and vulnerabilities in general?
 
