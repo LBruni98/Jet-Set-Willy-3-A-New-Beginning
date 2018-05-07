@@ -112,10 +112,10 @@ Written by Luke Bruni
     3.5.2 Secondary Research Conclusion
   3.6 References
 4. Evaluation
-  4.1	Testing Report
-  4.2	Evaluation 
-  4.3	Critical Analysis
-  4.4	Future changes
+  4.1 Testing Report
+  4.2 Evaluation 
+  4.3 Critical Analysis
+  4.4 Future changes
 ```
 
 ## 1. Project Management
