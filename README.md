@@ -615,6 +615,10 @@ The plan will be first to lay all the information out in order to properly analy
 
 To see thes rest of the excel writeup click [here.](https://github.com/LBruni98/Jet-Set-Willy-3-A-New-Beginning/blob/master/Security%20Research%20Survey.xlsx?raw=true)
 
+The idea is to analyse each section of the survey, consider the results to help determine an accurate conclusion about what people know about software vulnerabilities. The first section was made to measure the knowledge of each participant, with a qualitative question that said participant must back up for me to help understand and for them to cement their knowledge on software vulnerabilities and vulnerabilities in general. With the first section, I will compare the answers from both sections from both questions, to see if they understand software vulnerabilities.
+
+
+
 #### 3.4.2 How well do people know software vulnerabilities and vulnerabilities in general?
 
 ![Chart 1](https://github.com/LBruni98/Jet-Set-Willy-3-A-New-Beginning/blob/master/Images/Chart1.png)
