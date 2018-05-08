@@ -611,7 +611,7 @@ In regards to any ethical issues that may arise, the tutors of each class accept
 ##### 3.4.1.1 Data Analysis Plan
 The plan will be first to lay all the information out in order to properly analyse the data. The results from the survey were written up into excel, as shown below:
 
-1[Excel Writeup](https://github.com/LBruni98/Jet-Set-Willy-3-A-New-Beginning/blob/master/Excel%20Writeup%20Section.png)
+![Excel Writeup](https://github.com/LBruni98/Jet-Set-Willy-3-A-New-Beginning/blob/master/Excel%20Writeup%20Section.png)
 
 To see thes rest of the excel writeup click [here.](https://github.com/LBruni98/Jet-Set-Willy-3-A-New-Beginning/blob/master/Security%20Research%20Survey.xlsx?raw=true)
 
