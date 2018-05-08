@@ -627,7 +627,7 @@ For the first Question, it asked for the knowledge of software vulnerabilities. 
 
 Onto part b of the first question. This part was mainly used as a backup towards the first question, in which the reason behind was to verify if the person does indeed know what vulnerabilities are. Almost all answers were backed up clearly, but it’s interesting to note that the people that two people that answered ‘average’ and ‘good’ did not back up their question and instead either wrote ‘nothing’ in the box or didn’t write anything at all. This could mean many things, commonly though, it could mean that they actually have no idea or simply forgot.
 
-![Chart 2](https://github.com/LBruni98/Jet-Set-Willy-3-A-New-Beginning/blob/master/Images/Chart2.png)
+![Chart 2](https://github.com/LBruni98/Jet-Set-Willy-3-A-New-Beginning/blob/master/Images/Chart 2.png)
 
 The second question has the same format but asks on the types of vulnerabilities that they know off, rather than vulnerabilities in software. The expected result would be that at least a low-level amount of knowledge of viruses regardless, where certain participants did answer with a ‘good’ despite their answer in the first question of this part. However, it also happened vice versa (answered ‘poor’ or ‘very poor’) with a couple of participants, which is surprising considering that their results in the last question have been answered with ‘good’. This could mean anything.
 
