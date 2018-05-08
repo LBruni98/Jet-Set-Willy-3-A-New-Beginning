@@ -617,7 +617,7 @@ To see the rest of the excel writeup, click [here.](https://github.com/LBruni98/
 
 The idea is to analyse each section of the survey, consider the results to help determine an accurate conclusion about what people know about software vulnerabilities. The first section was made to measure the knowledge of each participant, with a qualitative question that said participant must back up for me to help understand and for them to cement their knowledge on software vulnerabilities and vulnerabilities in general. With the first section, I will compare the answers from both sections from both questions, to see if they understand software vulnerabilities.
 
-
+The main method of analysis will be to interpret the answers of each participant as well as the groups that the participant stems from in the IT department. The answers will best reflect on the knowledge of each group and should be key in determining the extent of their knowledge in all three sections of the survey, so mainly this analysis will be structured partly as trend analysis.
 
 #### 3.4.2 How well do people know software vulnerabilities and vulnerabilities in general?
 
