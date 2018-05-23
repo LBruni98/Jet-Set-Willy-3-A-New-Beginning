@@ -102,6 +102,8 @@ Written by Luke Bruni
   3.3 Mitigating Software Vulnerabilities
   3.4 Primary Research
     3.4.1 Introduction
+      3.4.1.1 Data Analysis Plan
+      3.4.1.2 The Difference Between Qualitative and Quantitative Research Methods
     3.4.2 How well do people know software vulnerabilities and vulnerabilities in general?
     3.4.3 What can a programmer do to prevent and reduce software vulnerabilities?
     3.4.4 How do people apply security in their personal lives?
@@ -610,6 +612,8 @@ A selection of 20 people was chosen to answer all selected at random from differ
 
 In regards to any ethical issues that may arise, the tutors of each class accept to the survey and not much in the way of personal information will be required, just the names of the participant and the dates. The people who answered the surveys will not have their names recorded and all physical copies will be disposed of indefinitely after the results are written up to excel.
 
+This research will link to my capstone project’s aims and objectives by providing data that can help with better security within development of the project, as well has gather research data to software development that can relate to my project.
+
 ##### 3.4.1.1 Data Analysis Plan
 The plan will be first to lay all the information out in order to properly analyse the data. The results from the survey were written up into excel, as shown below:
 
@@ -620,6 +624,15 @@ To see the rest of the excel writeup, click [here.](https://github.com/LBruni98/
 The idea is to analyse each section of the survey, consider the results to help determine an accurate conclusion about what people know about software vulnerabilities. The first section was made to measure the knowledge of each participant, with a qualitative question that said participant must back up for me to help understand and for them to cement their knowledge on software vulnerabilities and vulnerabilities in general. With the first section, I will compare the answers from both sections from both questions, to see if they understand software vulnerabilities.
 
 The main method of analysis will be to interpret the answers of each participant as well as the groups that the participant stems from in the IT department. The answers will best reflect on the knowledge of each group and should be key in determining the extent of their knowledge in all three sections of the survey, so mainly this analysis will be structured partly as trend analysis.
+
+##### 3.4.1.2 The Difference Between Qualitative and Quantitative Research Methods
+Qualitative research is used for more written data, which can be used to gain an understanding of reasons, opinions and/or motivations. This method can be used for a response to a problem in the point of view of the participant, mainly describing it in its fullest. The methods used in gathering this data do vary, such as focus groups, interviews and observations, which said techniques can be unstructured or semi-structured.
+
+Within my survey, this will be used to accurately determine the knowledge of each participant about software and general computer vulnerabilities which can be analysed into greater detail and can also be used for people to back up their claims in terms of what they say they know. The benefits of this method are that I can greatly analyse this data in detail and the complexities of the data can help determine a conclusion easier with more accuracy, helping me understand the knowledge and their answers with great detail. The weaknesses of this method are that the data will be highly subjective, with worries that a participant might only answer with generalized data and a common point is that this method can be time consuming to mine as the greater detail than quantitative data.
+
+Quantitative research is primarily numerical and can be morphed to usable statistics, mainly used to quantify the opinions or other variables of the participant. The data is measurable and is used to help convey facts and uncover patterns of different groups. Unlike Qualitative research, the methods used to collect data is more structured, as surveys are used commonly to gather this form of data, although other methods include online polls or interviews, etc.
+
+Using this method, it can help me determine the trends and help with measurements to the data. This will be used mainly to find data that would more or less revolve around trends and points, such as a question being ‘Do you ever go on social media?’, etc. and would need less analysing to help come up with a conclusion. The benefits are that with a large group of people, I can generalize the results which can help come up with a conclusion easily, and that in some questions, this format of data acquisition is appropriate. The drawbacks are though, that it doesn’t show the big picture in what I may be researching, requiring more detail and can reveal data to what extent but not explore it fully.
 
 #### 3.4.2 How well do people know software vulnerabilities and vulnerabilities in general?
 
